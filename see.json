@@ -1,0 +1,258 @@
+[
+
+  {
+    "name": "Kit Kat 18 GM",
+    "amount": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kitkat-15-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury 5 Star Big",
+    "amount": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-5-star-small-143x143.jpg",
+    "price": 10,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Dairy Milk",
+    "amount": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-dairy-milk-22-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Munch",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-munch-5rs-143x143.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury 5 Star Small",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-5-star-small-143x143.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Kit Kat 5 Rs.",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kitkat-5-143x143.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Choclairs Pack 437 GM",
+    "amount": "Rs.115.00",
+    "img": "http://baniyababu.com/wp-content/uploads/choclairs-5star-free-143x143.jpg",
+    "price": 115,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Perk Xl",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-perk-xl-143x143.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Dairy Milk Small",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-dairy-milk-small-143x143.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Choco-Pie 168 GM",
+    "amount": "Rs.70.00",
+    "img": "http://baniyababu.com/wp-content/uploads/choco-pie-143x143.jpg",
+    "price": 70,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Celebrations Big",
+    "amount": "Rs.150.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-celebrations-big-143x143.jpg",
+    "price": 150,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Dairy Milk",
+    "amount": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-dairy-milk-small-143x143.jpg",
+    "price": 10,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Chocolate Falero Strawberry 500 GM",
+    "amount": "Rs.126.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chocolate-falero-143x143.jpg",
+    "price": 126,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Chocolate Mango Bite 320 GM",
+    "amount": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chocolate-mango-bite-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Chocolate Coffy Bite 475 GM",
+    "amount": "Rs.75.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chocolate-coffy-bite-143x143.jpg",
+    "price": 75,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Kit Kat 76.8 GM",
+    "amount": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kitkat-60-143x143.jpg",
+    "price": 60,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Kit Kat 18 GM",
+    "amount": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kitkat-15-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury 5 Star Big",
+    "amount": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-5-star-small-186x186.jpg",
+    "price": 10,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Dairy Milk",
+    "amount": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-dairy-milk-22-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Munch",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-munch-5rs-186x186.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury 5 Star Small",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-5-star-small-186x186.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Kit Kat 5 Rs.",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kitkat-5-186x186.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Choclairs Pack 437 GM",
+    "amount": "Rs.115.00",
+    "img": "http://baniyababu.com/wp-content/uploads/choclairs-5star-free-186x186.jpg",
+    "price": 115,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Perk Xl",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-perk-xl-186x186.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Dairy Milk Small",
+    "amount": "Rs.5.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-dairy-milk-small-186x186.jpg",
+    "price": 5,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Choco-Pie 168 GM",
+    "amount": "Rs.70.00",
+    "img": "http://baniyababu.com/wp-content/uploads/choco-pie-186x186.jpg",
+    "price": 70,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Celebrations Big",
+    "amount": "Rs.150.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-celebrations-big-186x186.jpg",
+    "price": 150,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Cadbury Dairy Milk",
+    "amount": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/cadbury-dairy-milk-small-186x186.jpg",
+    "price": 10,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Chocolate Falero Strawberry 500 GM",
+    "amount": "Rs.126.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chocolate-falero-186x186.jpg",
+    "price": 126,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Chocolate Mango Bite 320 GM",
+    "amount": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chocolate-mango-bite-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Chocolate Coffy Bite 475 GM",
+    "amount": "Rs.75.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chocolate-coffy-bite-186x186.jpg",
+    "price": 75,
+    "quantity": 1,
+    "unit": "Packet"
+  },
+  {
+    "name": "Kit Kat 76.8 GM",
+    "amount": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kitkat-60-186x186.jpg",
+    "price": 60,
+    "quantity": 1,
+    "unit": "Packet"
+  }

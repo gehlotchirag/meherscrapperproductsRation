@@ -1,0 +1,7170 @@
+[
+
+,
+
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-22-28595520",
+    "address": "Maxus Mall, Plot No-624, 90 Feet Road, Andheri East, Mumbai - 400072, K P Compound, Jarimari, Sakinaka",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.093368,
+        72.88373
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Hypercity Retail India Ltd",
+    "phone": "+(91)-22-40078418, 40078419",
+    "address": "Link Road, Malad West, Mumbai - 400064, Next To Inorbit Mall, Mindspace",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.171255,
+        72.835002
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-22-67086999",
+    "address": "101, Growel Plaza, Akurli Road, Kandivali East, Mumbai - 400101, Off Western Express Highway",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.203201,
+        72.859813
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-22-66626714, 66626703",
+    "address": "Ground Floor, High Street Phoenix, 462, Senapati Bapat Marg, Lower Parel, Mumbai - 400013, Phoenix Mills Compound",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.994999,
+        72.825336
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Godrej Natures Basket",
+    "phone": "+(91)-22-49173936",
+    "address": "Plot No 29, Hill Road, Bandra West, Mumbai - 400050, Next To New Bank Of India Building",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.055673,
+        72.831859
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Godrej Natures Basket",
+    "phone": "+(91)-22-26300766, 26300714",
+    "address": "Shop No 2 To 7, Samartha Vaibhav Building, Millat Nagar Road, Lokhandwala Complex-Andheri West, Mumbai - 400053, Opposite Tarapore Towers, Next To ICICI Bank, Adarsh Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1468181,
+        72.8292461
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-22-30553973",
+    "address": "R City Mall, 2nd Floor, L B S Marg, Ghatkopar West, Mumbai - 400086, Opposite Presidential Tower",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0994485,
+        72.9165413
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Godrej Natures Basket",
+    "phone": "+(91)-22-49184291",
+    "address": "Shop No 1To 5, Parul Apartment, Juhu Tara Road, Juhu, Mumbai - 400049, Opposite Juhu Church, Near Four Seasons Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1064564,
+        72.8262831
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-22-67106510",
+    "address": "C/O Maxus Mall, Bhayandar West, Thane - 401101, Near Temba Hospital Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.296047,
+        72.848638
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Chheda Stores",
+    "phone": "+(91)-22-24142703, 24144245",
+    "address": "292, Bhanu Jyoti, L N Road, Matunga East, Mumbai - 400019",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.027081,
+        72.851119
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-22-39983549, 39983554",
+    "address": "Lake City Mall, Ghodbunder Road, Thane West, Thane - 400601, Kapurbawdi Junction, Off Eastern Express Higway",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2170432,
+        72.9792702
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Hypercity Retail India Ltd",
+    "phone": "18001020468, 18002097172",
+    "address": "Ground Floor, Big Thane Shopping Centre, Ghodbundar Road, Thane West, Thane - 400601, Behind Kasarwadawali Police Station, Kasarvadawali Gaon",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.186294,
+        72.974382
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Janata Stores",
+    "phone": "+(91)-22-28050693, +(91)-8097618700",
+    "address": "Ganesh Bhavan, S V Road, Borivali West, Mumbai - 400092, Near Indraprastha Shopping Centre",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8097618700",
+    "preference": 1
+  },
+  {
+    "name": "Godrej Natures Basket",
+    "phone": "+(91)-22-40028006, +(91)-9833648521",
+    "address": "30 A, Ground Floor, Shopping Arcade, World Trade Centre, Cuffe Parade-Colaba, Mumbai - 400005, Opposite IDBI Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.914647,
+        72.818284
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833648521",
+    "preference": 1
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-22-67958010, 67958011",
+    "address": "C/O Raghuleela Mall, Ground Floor, Vashi, Navi Mumbai - 400703, Opposite Vashi Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0640395,
+        72.9967743
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Godrej Natures Basket",
+    "phone": "+(91)-22-24934241, 24934231",
+    "address": "Shop No 6, 44, Khanna Constructions, Abdul Guffer Road, Worli, Mumbai - 400018, Near Flora Chinese Restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.002365,
+        72.813711
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Godrej Natures Basket",
+    "phone": "+(91)-22-49180468",
+    "address": "Ek Omkar Premises Co Operative Society Ltd, 27, Ketan Bhavan, 198, Jamshedji Tata Road, Churchgate, MUMBAI - 400020, Opposite Ritz Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9315,
+        72.826333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Godrej Natures Basket",
+    "phone": "+(91)-22-28861573, 28863797",
+    "address": "Shop No 33/34/35, Viceroy Court, Kandivali East, Mumbai - 400101, Opposite Dominos Pizza, Thakur Village",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2131603,
+        72.8727047
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-22-30700328, +(91)-7498268309",
+    "address": "1st Floor, R Mall, L B S Marg, Mulund West, Mumbai - 400080, Near Mulund Checknaka, Opposite Richardson Factory Cruddas",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1839886,
+        72.951571
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7498268309",
+    "preference": 1
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "18002002255",
+    "address": "Parle Square, Mongi Bai Road, Vile Parle East, Mumbai - 400057, Dinanath Mangeshkar Hall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.100756,
+        72.844829
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Hypercity Retail India Ltd",
+    "phone": "+(91)-22-40501305, 66901305",
+    "address": "Ground Floor, Plot No 39/1, Inorbit Mall, Vashi, Navi Mumbai - 400703, Near Centre One Shopping Mall & Railway Station, Behind Hotel Tunga, Sector No 30 A",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.065697,
+        73.000824
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-61618734",
+    "address": "Plot No 843, Kashinath Dhuru Road, Prabhadevi, Mumbai - 400025, Junction Off S K Bole Road, Agar Bazaar, Chuchwadi, Near Siddhivinayak Temple",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0187767,
+        72.83281
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  }
+
+,
+
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-26424732, 26512727",
+    "address": "Municipal Building, Station Road, Bandra West, Mumbai - 400050, Near Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0567151632,
+        72.8393734808
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Godrej Natures Basket",
+    "phone": "+(91)-22-25707706, 25704887",
+    "address": "Shop No 4, Bg India House, Powai, Mumbai - 400076, Hiranandani Garden, Hiranandani Business Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.119833,
+        72.908
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Reliance Super",
+    "phone": "+(91)-22-40176400, 23022506",
+    "address": "Central City Mall, Santoshi Mata Durga Co Operative Housing Society, Parekh Holding, Lamington Road, Mumbai Central, Mumbai - 400008, Opposite Shagun Hotel & Navjeevan Society",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9676524,
+        72.81975
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 22022248",
+    "address": "Shahid Bhagat Singh Road, Colaba, Mumbai - 400005, Opposite Regal Cinema",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9246151,
+        72.83251
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, +(91)-9967016966",
+    "address": "V Mehta Road, Juhu, Mumbai - 400049, Near Kala Niketan, Below Dimple Hotel, Jvpd Scheme",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.103434,
+        72.832159
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9967016966",
+    "preference": 1
+  },
+  {
+    "name": "Reliance Mart",
+    "phone": "+(91)-22-40176400, 61801467",
+    "address": "Shop No 28 & 29, Phoenix Marketcity Mall, L B S Marg, Kurla West, Mumbai - 400070, Kamani",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.086474,
+        72.889382
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Godrej Nature's Basket",
+    "phone": "+(91)-22-25188123, 25188124",
+    "address": "S 51 & 52, 2nd Floor, Phase 2, R City Mall, L B S Marg, Ghatkopar West, Mumbai - 400086",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.099806,
+        72.916194
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Great Home Super Market",
+    "phone": "+(91)-22-26304086, +(91)-9769155532",
+    "address": "Shop No-8, Wood Rose Building, Lokhandwala Market, Andheri West, Mumbai - 400053, Near Green Acre",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.146617,
+        72.823678
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9769155532",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Cooperative Departm...",
+    "phone": "+(91)-22-26743014, 26740857",
+    "address": "5, Dhake Colony, JAY Prakash Road, Andheri West, Mumbai - 400058, Azad Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1279484,
+        72.8331971
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-22-27491399",
+    "address": "K Mall, Kandpile Theatres, Railway Station Road, Panvel, Navi Mumbai - 410206, F P No 413/2, Sub Plot No 2 To 5",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.987366,
+        73.120034
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Modern Stores",
+    "phone": "+(91)-22-26400590, +(91)-9222206359",
+    "address": "Shop No 11, Dhiraj Arcade, Bandra West, Mumbai - 400050, Near 5 Spice, Pali Naka",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.062746,
+        72.829252
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9222206359",
+    "preference": 1
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-251-2350500",
+    "address": "C/O Metro Junction Mall, Sheel Road, Kalyan City, Thane - 421301, Near Sheel Phata Netivali Village",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.230032,
+        73.123342
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Willingdon Super Market",
+    "phone": "+(91)-22-26495354, +(91)-9869559821",
+    "address": "20 B, Willingdon Colony, S V Road, Santacruz West, Mumbai - 400054, Opposite Bombay Mercantile Co Operative Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.089152,
+        72.839322
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869559821",
+    "preference": 1
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-251-3083575, +(91)-9222221947",
+    "address": "Plot No C 3, Empress Mall, Manpada Road, Dombivli East, Thane - 421201, Near Shani Mandir, MIDC Phase 2, Village Sagaon",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.200767,
+        73.095409
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9222221947",
+    "preference": 1
+  },
+  {
+    "name": "Shivraj Super Shoppy",
+    "phone": "+(91)-22-61616088",
+    "address": "Shop No 12, Silver Streak, Yari Road, Andheri West, Mumbai - 400061, Near Madina Masjid,Versova",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1394948,
+        72.80918
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar Direct Franchisee",
+    "phone": "+(91)-8652620238",
+    "address": "Shop No. 17, ACME Amay, Vishveshwar Nagar Road, Goregaon East, Mumbai - 400063, Umiya Mataji Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1688378,
+        72.8540432
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8652620238",
+    "preference": 1
+  },
+  {
+    "name": "Hypercity Retail India Ltd (Co...",
+    "phone": "+(91)-22-40695555",
+    "address": "1st Floor, A Wing, Paradigm, Malad Link Road, Malad West, Mumbai - 400064, Mind Space",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.180375,
+        72.832571
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-23648435, 23688704",
+    "address": "Shop No 63, Bhulabhai Desai Road, Breach Candy, Mumbai - 400026, Next To Amarsons, Opposite Breach Candy Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.970833,
+        72.804833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-24096975, +(91)-9967015249",
+    "address": "Shop No 3108, Matunga East, Mumbai - 400019, Behind Aurora Cinema, Kings Circle",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.027435,
+        72.857286
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9967015249",
+    "preference": 1
+  },
+  {
+    "name": "Roshan Atta & Stores",
+    "phone": "+(91)-22-65737777, +(91)-8879245682",
+    "address": "Shop No-1/30, Punjabi Colony, K  Bhasin Road, Sion Koliwada, Mumbai - 400022, Near Hazara  Hotel, Gtb Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.034547,
+        72.863122
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8879245682",
+    "preference": 1
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "18002002255",
+    "address": "Ulhasnagar No 3, Thane - 421002, Near Jawahar Cinema",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Godrej Natures Basket",
+    "phone": "+(91)-22-61427969",
+    "address": "Shop No 11, Avila Building, Ghodbunder Road, Thane West, Thane - 400601, Hiranandani Estate",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Suryodaya Super Market",
+    "address": "Indian Merchant Chambers Building, Station Road, Churchgate, Mumbai - 400020, Opposite Churchgate Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.93342,
+        72.82698
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai"
+  },
+  {
+    "name": "First Choice Super Market 3",
+    "phone": "+(91)-22-49177457",
+    "address": "Shop No 1&2, New Mahakali Development Road, Andheri East, Mumbai - 400093, Opposite Takshila Gate No 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1314443,
+        72.867862
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Lobo Stores",
+    "phone": "+(91)-22-23475397, +(91)-9892096137",
+    "address": "Shop No 295-296, M J Phule Market, Crawford Market, Mumbai - 400001, Opposite Bombay Police Head Quater",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.946597,
+        72.833286
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892096137",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Apna Bazar Co Operative Depart...",
+    "phone": "+(91)-22-28686472, +(91)-9320853630",
+    "address": "Dr Ambedkar Raod, Kandivali West, Mumbai - 400067, Sector No 5, Charkop Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2163888888,
+        72.8286111111
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9320853630",
+    "preference": 1
+  },
+  {
+    "name": "Hypercity Retail India Ltd",
+    "phone": "18001020468, 18002097172",
+    "address": "Viviana Mall, 1st Floor, Eastern Express Highway, Thane West, Thane - 400601, Next To Jupiter Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2084923,
+        72.9717278
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Ratna Departmental Stores",
+    "phone": "+(91)-22-21025422, 21027824",
+    "address": "Shop Number 8, 7, 9, Kailash Mahal, Vallabh Baug Lane, Ghatkopar East, Mumbai - 400077, Near R Odeon",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.078139,
+        72.902514
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Om Mart",
+    "phone": "+(91)-22-28431141, +(91)-9833718548",
+    "address": "Upper Shop No.2, Gagan Shopping Arcade, Krishna Vatika Marg, Gokuldham-Goregaon East, Mumbai - 400063, Opposite Meenaxi Tower",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.172833,
+        72.868833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833718548",
+    "preference": 1
+  },
+  {
+    "name": "King Plaza Chemist & Supermarket",
+    "phone": "+(91)-22-22161212, +(91)-8291222251",
+    "address": "Shop No F/3, Maker Arcade Shopping Centre, Gs Somani Marg, Cuffe Parade-Colaba, Mumbai - 400005, World Trade Center",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.914912,
+        72.821525
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8291222251",
+    "preference": 1
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, +(91)-9987200434",
+    "address": "Shyam Kamal C, Vile Parle East, Mumbai - 400057, Behind Dinanath Mangeshkar Hall, Agarwal Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.10118675,
+        72.8457336388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987200434",
+    "preference": 1
+  },
+  {
+    "name": "Food Spot",
+    "phone": "+(91)-22-61428265",
+    "address": "2, Kenwood Building, Junction Express, Dr Ambedkar Road, Bandra West, Mumbai - 400050, Near Zigzag Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.06493,
+        72.829697
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Gala Provision Stores",
+    "phone": "+(91)-22-61614883",
+    "address": "Shop No 4, Shiv Plaza Shoping Centre, Station Road & Phatak Road, Kandivali West, Mumbai - 400067, Near Railway Crossing & Sabzi Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.203233,
+        72.850616
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Welcome Supermarket",
+    "phone": "+(91)-22-26332419, +(91)-9833130497",
+    "address": "540, Lokhandwala Complex, Off Link Road, Andheri West, Mumbai - 400053, Opposite Tarapore Tower, Adarsh Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.145667,
+        72.829833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833130497",
+    "preference": 1
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 25289777",
+    "address": "3r Society, Research Centre, R C Marg, Chembur East, Mumbai - 400071, Opposite Jain Mandir",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sweet Home Super Market",
+    "phone": "+(91)-22-28630096, +(91)-9702440389",
+    "address": "Shop No 6, Heritage Tower, Marve Road, Malad West, Mumbai - 400064, Opposite Orlem Church",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.195438,
+        72.837517
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9702440389",
+    "preference": 1
+  },
+  {
+    "name": "Vijay Stores",
+    "phone": "+(91)-22-26146641, +(91)-9619093078",
+    "address": "4, Sahajeevan, Shraddhanand Road, Vile Parle East, Mumbai - 400057, Opposite Ram Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1020068888,
+        72.8445434444
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9619093078",
+    "preference": 1
+  },
+  {
+    "name": "G Mart",
+    "phone": "+(91)-22-28491870, 28491867",
+    "address": "Shop No 1 & 2, Shree SAI Dham, Film City Road, Malad East, Mumbai - 400097, Near Shopper Spot, Gokuldham Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1758858,
+        72.86903
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 28712685",
+    "address": "Shop No 1, Sarnath Shopping Centre, Malad East, Mumbai - 400097, Upper Govind Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.177003,
+        72.854426
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Goodluck general store",
+    "phone": "+(91)-22-49186327",
+    "address": "J P Road, Dhaka Colony, Andheri West, Mumbai - 400053, Opposite Wadia High School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.127378,
+        72.834105
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Gangar Stores",
+    "phone": "+(91)-22-49186519",
+    "address": "D-16, Empire Mahal, Tilak Road, Dadar East, Mumbai - 400014, Dadat Tt Circle",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.017333,
+        72.848333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Tejani Convenient Stores",
+    "phone": "+(91)-22-26002844, +(91)-8879112190",
+    "address": "Shop No 1 & 2, Corner View Cooperative Housing Society, 15 & 33 Road Junction, Bandra West, Mumbai - 400050, TPS 3",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.06512,
+        72.831895
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8879112190",
+    "preference": 1
+  },
+  {
+    "name": "Indiashoppe Store",
+    "address": "G 183, Ground Floor, Haware Fantasia Business Park, Plot No 47, Vashi, Navi Mumbai - 400703, Sector 30 A, Opposite Vashi Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.083103,
+        73.006018
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai"
+  },
+  {
+    "name": "Reliance Fresh",
+    "phone": "+(91)-22-40176400, 27802538",
+    "address": "SAI Palace, Plot No 35, Vashi, Navi Mumbai - 400703, Near Hotel Milan SAI Palace, Near NMMC Hospital, Sector 10 A",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0840554,
+        72.9973
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-251-2350736, 2350500",
+    "address": "C/O Metro Junction Mall, Sheel Road, Kalyan East, Thane - 421306, Netivli Village, Near Sheel Phata",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.23001,
+        73.12337
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Quality Foods",
+    "phone": "+(91)-22-27891400, +(91)-9820697581",
+    "address": "Shop No 21, Shanti Shopping Centre, Vashi, Navi Mumbai - 400703, Sector No 17",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0726356388,
+        72.99786375
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820697581",
+    "preference": 1
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 28303206",
+    "address": "Shyam Kunj Building, Andheri East, Mumbai - 400059, Near J B Nagar Post Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1112769,
+        72.86932
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Meghsons",
+    "phone": "+(91)-22-28822291, 28820344",
+    "address": "Marve Road, Malad West, Mumbai - 400064, Junction Of S V Road & Marve Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1909714,
+        72.84678
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sarvodaya Supermarket",
+    "phone": "+(91)-22-24306531, +(91)-9322221169",
+    "address": "356, Ranade Road, Dadar West, Mumbai - 400028, Lj Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.021317,
+        72.839795
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9322221169",
+    "preference": 1
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 28931389",
+    "address": "LIC Shopping Centre, Borivali West, Mumbai - 400091, Near Post Office, Behind Karnataka Bank Jeevan Bhima Nagar, LIC Colony",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2434222,
+        72.85133
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  }
+
+,
+
+  {
+    "name": "Shree Malad Dal Mills",
+    "phone": "+(91)-22-28821247, +(91)-9930849923",
+    "address": "S V Road, Malad West, Mumbai - 400064, Ram Baug",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1788625,
+        72.84508
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9930849923",
+    "preference": 1
+  },
+  {
+    "name": "Raga Ladha & Co",
+    "phone": "+(91)-22-23853642, +(91)-9833662204",
+    "address": "Shop No. 34/40, Nanubhai Desai Road Khetwadi Main Road, Charni Road, Mumbai - 400004, Near Madhav Bagh , C . P Tank",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833662204",
+    "preference": 1
+  },
+  {
+    "name": "Shivraj Super Market",
+    "phone": "+(91)-22-26244130, +(91)-9819980793",
+    "address": "Sahakari Society Jvpd Scheme, Vidyanidhi Marg, Juhu, Mumbai - 400049, Near Sukhmani Society And Opposite Cafe Azmi Garden",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1081638333,
+        72.8285751111
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819980793",
+    "preference": 1
+  },
+  {
+    "name": "Ghelani Stores",
+    "phone": "+(91)-22-25013014, +(91)-9322212751",
+    "address": "248,Shailbhadra Bldg, Hingwala Lane, Ghatkopar East, Mumbai - 400077, Near Popular Hotel",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9322212751",
+    "preference": 1
+  },
+  {
+    "name": "Student General Store",
+    "phone": "+(91)-22-22186996, +(91)-9619669535",
+    "address": "625, G D Somani High School, Ground Floor, Cuffe Parade-Colaba, Mumbai - 400005",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9159869298,
+        72.8196904269
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9619669535",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Coop Departmental S...",
+    "phone": "+(91)-22-24123221, 24109479",
+    "address": "Oranwala Mansion, Ambnedkar Road, Parel, Mumbai - 400012",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0076746,
+        72.8449
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 28114880",
+    "address": "Ground Floor, Trivedi Complex, Church Road, Mira Road, Thane - 401107, Next To Simla Complex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2853262,
+        72.8670471
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Baba General Stores",
+    "phone": "+(91)-22-27724140, +(91)-9769098189",
+    "address": "Shop no.02, dream havan home, Sector-25, Nerul, Navi Mumbai - 400706, Near seawood station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0245,
+        73.020333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9769098189",
+    "preference": 1
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, +(91)-7738133413",
+    "address": "Goregaon East, Mumbai - 400065, Opposite Yashodham School & Dindoshi Bus Depot",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1733447309,
+        72.86699834
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7738133413",
+    "preference": 1
+  },
+  {
+    "name": "New Rohan stores",
+    "phone": "+(91)-22-26348494, +(91)-9820581662",
+    "address": "Shop no-4,janakdeep apartment, J.p road ,7 bungalow, Andheri West, Mumbai - 400061, Opp-bank of Maharashtra",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.130183,
+        72.818597
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820581662",
+    "preference": 1
+  },
+  {
+    "name": "Shanti Stores",
+    "phone": "+(91)-22-42733542",
+    "address": "Shop No 3 And 4, Nirmal Building, D J Road, Vile Parle West, Mumbai - 400056, Opposite Mcdonalds",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.100614,
+        72.840522
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Shree Muthu Laxmi Stores",
+    "phone": "+(91)-22-26247471, +(91)-9869985784",
+    "address": "Shop No 108, Laram Centre, M A Road, Andheri West, Mumbai - 400053, Opposite Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1182488,
+        72.8454709
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869985784",
+    "preference": 1
+  },
+  {
+    "name": "Jain Traders",
+    "phone": "+(91)-22-28633569, +(91)-9820043810",
+    "address": "Jain Bhuvan, Mathurdas Road, Kandivali West, Mumbai - 400067, Near Lijjat Papad Manufacturing Company",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2046854,
+        72.83912
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820043810",
+    "preference": 1
+  },
+  {
+    "name": "Food Right",
+    "phone": "+(91)-22-67656500, 67656501",
+    "address": "Nirmal Lifestyle, Ground Floor, Lbs Marg, Mulund West, Mumbai - 400080, Premises Of Shoppers Stop And Mcdonalds, Opposite Nirmal Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.166732,
+        72.937245
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 23717291",
+    "address": "Chetak Apartment, 19, Love Lane, Mazgaon, Mumbai - 400010, Near Mazgaon Post Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9678147,
+        72.8437
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Twinkle General Store",
+    "phone": "+(91)-22-26368895, 26324553",
+    "address": "Twinkle Apartment, Shop No 12, Andheri West, Mumbai - 400053, Off Linking Road, Oshiwara, Lokhandwala",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.14523,
+        72.828607
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Siking Super Market",
+    "phone": "+(91)-22-28582801, +(91)-9920237821",
+    "address": "Shop No D/9-10, Nahar Amrit Shakti Shopping Plaza, Nahar Amrit Shakti Road, Andheri East, Mumbai - 400072, Powai, Chandivali",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.110519,
+        72.89717
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920237821",
+    "preference": 1
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "18002002255",
+    "address": "High Street Mall, Bhiwandi Road, Thane West, Thane - 400601, Kapurbavdi Junction",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Home choice super market",
+    "phone": "+(91)-22-26304478, 26360133",
+    "address": "C-2b,basera bldg, Lokhandwala complex, Andheri West, Mumbai - 400053, Near-high point restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.144036,
+        72.82373
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 24930589",
+    "address": "Abdul Gafaar Khan Road, Worli, Mumbai - 400018, Next To Mela Restaurant Narayanrao Pujari Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9937414715,
+        72.8144373486
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Apna Bazar Coop Departmental S...",
+    "phone": "+(91)-22-24195234, 24195235",
+    "address": "106/A, Ground Floor, Govindji Keni Road, Dadar East, Mumbai - 400014, Near Hindmata Talkies, Opposite Bhoiwada Police Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0075727601,
+        72.8449006573
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Choice Food Land",
+    "phone": "+(91)-22-26461367, +(91)-9821228190",
+    "address": "Shop No 9, Silver Craft Building, Palimala Road, Bandra West, Mumbai - 400050, Opposite Pali Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.062932,
+        72.828173
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821228190",
+    "preference": 1
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-22154552, +(91)-9833108620",
+    "address": "10 Colaba Chamber, Shahid Bhagat Singh Marg, Colaba, Mumbai - 400005, Opposite Gpo, Near Bus Depot, Next To Sassoon Dock",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9125413,
+        72.8219
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833108620",
+    "preference": 1
+  },
+  {
+    "name": "Benzer Store",
+    "phone": "+(91)-22-26400705, +(91)-9819146720",
+    "address": "Shop No 4, Saquib, J N Tuner Road, 24 Th Road, Bandra West, Mumbai - 400050, Next To Tava Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0596182,
+        72.83252
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819146720",
+    "preference": 1
+  },
+  {
+    "name": "Family Store",
+    "phone": "+(91)-22-71043856",
+    "address": "6, Ground Floor, Abbas Mansion, Chhablidas Road, Dadar West, Mumbai - 400028, Opposite Ideal Book Depot",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.02,
+        72.842333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  }
+
+,
+
+  {
+    "name": "Satyam stores",
+    "phone": "+(91)-22-26368045, +(91)-9920412532",
+    "address": "Shop no-8,shiv shadan, Samarth nagar, Andheri West, Mumbai - 400053, Near-lokhandwala market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.144714,
+        72.823647
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920412532",
+    "preference": 1
+  },
+  {
+    "name": "Central Stores",
+    "phone": "+(91)-22-25162881, +(91)-9820819174",
+    "address": "Ratan Mahal, M G Road, Ghatkopar West, Mumbai - 400086, Near Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0848628,
+        72.9054614
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820819174",
+    "preference": 1
+  },
+  {
+    "name": "National Medical & Super Market",
+    "phone": "+(91)-22-26001040, +(91)-9892566850",
+    "address": "Shop No 1/2 , JAI Niketan Building, 16th Road, Danda Road, Khar West, Mumbai - 400052, Opposite Maharashtra Bank, Next To Nike Showroom",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.073167,
+        72.831167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892566850",
+    "preference": 1
+  },
+  {
+    "name": "Roman General & Provision Store",
+    "phone": "+(91)-22-26428538, +(91)-9867547533",
+    "address": "Shop No 7, Carlton Court Building, 6 Perry Road, Carlton Court Road, Bandra West, Mumbai - 400050, Opposite Kotak Mahindra Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.059569,
+        72.829405
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867547533",
+    "preference": 1
+  },
+  {
+    "name": "Hypercity Retail India Ltd (Cu...",
+    "phone": "18001020468, 18002097172",
+    "address": "Mumbai",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 23671421",
+    "address": "Hyderabad Estate, Napean Sea Road, Mumbai - 400006, Opposite Priyadarshini Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.957392,
+        72.800308
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Fair Price Shop",
+    "phone": "+(91)-22-22820603, 22851137",
+    "address": "195, Moti Mahal, J T Road, Churchgate, Mumbai - 400020, Opposite Samrat Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9309365,
+        72.825825
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Food Junction",
+    "phone": "+(91)-22-25700505, +(91)-9820332232",
+    "address": "Shop No 7 Daffodil Society, Central Avenue Road, Powai, Mumbai - 400076, Hiranandani Garden",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1161670555,
+        72.9057922222
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820332232",
+    "preference": 1
+  },
+  {
+    "name": "Jain Provision Stores",
+    "phone": "+(91)-22-61616944",
+    "address": "101, 12,J Mehta Marg, Walkeshwar, Mumbai - 400006, Shripal Nagar",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Big Bazaar Direct Franchisee",
+    "phone": "+(91)-9820714254, 9324405982",
+    "address": "Shop No. 8, Solitaire Tower, N.L. Complex, Dahisar, Mumbai - 400068, Behind Anand Nagar",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Apna Bazar",
+    "phone": "+(91)-22-25611415, 25610010",
+    "address": "Maharashtra Seva Sang Building, Pandit Jawaharlal Nehru Road, Mulund West, Mumbai - 400080",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1680017,
+        72.95187
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-250-40176400, +(91)-9987397299",
+    "address": "Fun Fiesta Ground Floor, Sri Prastha Complex,  Sri Swastik Mega City, Nalasopara West, Thane - 401203, Opposite Poonam Complex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.4240128291,
+        72.8115904603
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987397299",
+    "preference": 1
+  },
+  {
+    "name": "Laxmi Super Market",
+    "phone": "+(91)-22-49183747",
+    "address": "Mahada Building No 40, Shop No 3, New Link Road, Andheri West, Mumbai - 400053, Opp Shriji Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.149222,
+        72.828163
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "D K Corporation",
+    "phone": "+(91)-22-28339999, 28330000",
+    "address": "Shop No 1 & 2, D K House, Jambli Gully, Borivali West, Mumbai - 400092, Opposite Sanjay Ice Cream, Opposite M K High School",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Shiv Plaza super market",
+    "phone": "+(91)-9167341790",
+    "address": "Shop No 1/2 No 118 B Sea View Terrace, Woodhouse Road, Colaba, Mumbai - 400005, Opposite Charagh Din",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.915262,
+        72.824097
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167341790",
+    "preference": 1
+  },
+  {
+    "name": "New Sweet  Home Super Market",
+    "phone": "+(91)-22-26303355, +(91)-9930553377",
+    "address": "Shop no-1,Basera, 3rd cross lane,, Mumbai - 400053, Lokhandwala complex,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.144714,
+        72.823647
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9930553377",
+    "preference": 1
+  },
+  {
+    "name": "Hansraj Khimraj & Company",
+    "phone": "+(91)-22-23465066, 23466432",
+    "address": "Shop No 164,, 200/202,Bara Imam Road, Null Bazar Road, Null Bazar, Mumbai - 400003, Near Gol Deval Temple",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.958788,
+        72.829103
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Om Mart",
+    "phone": "+(91)-9167314893",
+    "address": "Shop No 6, SAI Minar Chs Ltd, Saibaba Complex, Goregaon East, Mumbai - 400063, Off Ciba Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1687669,
+        72.8688169
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167314893",
+    "preference": 1
+  },
+  {
+    "name": "Ever Fresh Super Market",
+    "phone": "+(91)-22-23841501, +(91)-9820777920",
+    "address": "Shop No.8 Botawala Building, 82-86  Raghavji Road, Mumbai - 400026, Gowalia Tank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9651451111,
+        72.8085021944
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820777920",
+    "preference": 1
+  },
+  {
+    "name": "Big Bazaar",
+    "phone": "+(91)-2525-267659, 267652",
+    "address": "Ostwal Empire, Tarapur Boisar Road, Boisar, Thane - 401501, Survey No 111/1/2, 111a/1/1 , Village Grampanchayat, Tarapur, Opposite S T Bus Depot",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.8000594,
+        72.75834
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Venus General Stores",
+    "phone": "+(91)-22-28337611, +(91)-9702601259",
+    "address": "D/26 Shop No 6, Yogi Nagar, Eksar Road, Yogi Nagar, Borivali West, Mumbai - 400091, Opposite Jawahar Oil",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.235317,
+        72.842705
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9702601259",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Coop Departmental S...",
+    "phone": "+(91)-8898196500",
+    "address": "Shop No 3, 4, 5  & 6, Plot No 16, Shree Tower, Kharghar, Navi Mumbai - 410210, Sector 20",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0476264,
+        73.07113
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8898196500",
+    "preference": 1
+  },
+  {
+    "name": "Laxmi Stores",
+    "phone": "+(91)-22-25284269, +(91)-9819324316",
+    "address": "Plot No 202, Gaothan Road No 1, Chembur East, Mumbai - 400071, Opposite Post Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.057,
+        72.898167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819324316",
+    "preference": 1
+  },
+  {
+    "name": "Chheda super market",
+    "phone": "+(91)-22-26350023, +(91)-9820046169",
+    "address": "Shop no-60,plot no-60, Mahada, Andheri West, Mumbai - 400053, S.v.p nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.13813,
+        72.821945
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820046169",
+    "preference": 1
+  },
+  {
+    "name": "Welcome Stores",
+    "phone": "+(91)-22-22188825, +(91)-9821466977",
+    "address": "Shop No 9, New 57/A, Arsiwala Building, Wodehouse Road, Colaba, Mumbai - 400005, Opposite Indu Clinic",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.915542,
+        72.824347
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821466977",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Bright General Stores",
+    "phone": "+(91)-22-28055404, +(91)-9867088796",
+    "address": "Shop No 8, Pancharatna Chs Ltd, Plot No 5, S V Road, Borivali West, Mumbai - 400092, Mulji Nagar, Saibaba Road",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867088796",
+    "preference": 1
+  },
+  {
+    "name": "Shivraj Fortune Enterprises",
+    "phone": "+(91)-22-25142828, +(91)-9820023079",
+    "address": "Shop 2, Ground Floor, Traffic Light Building, M G Road, Ghatkopar West, Mumbai - 400086, Near Bank Of Baroda",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.08684,
+        72.90421
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820023079",
+    "preference": 1
+  },
+  {
+    "name": "Lucky Stores",
+    "phone": "+(91)-22-29208562, +(91)-9224443223",
+    "address": "Premavati Anand Compound, Shop No 1, Marol Maroshi Road, Andheri East, Mumbai - 400059, Opposite Sevenhills Hospital Near Agrwal Sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.117008,
+        72.88022
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9224443223",
+    "preference": 1
+  },
+  {
+    "name": "Laxmi DAL Mill",
+    "phone": "+(91)-22-28713010, +(91)-9322169181",
+    "address": "Shop No 60, Hiramani Ratan Shopping Centre, Bangur Nagar Police Chowki Street, Bangur Nagar-Goregaon West, Mumbai - 400104, Near Ayyapa Temple Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.165695,
+        72.833733
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9322169181",
+    "preference": 1
+  },
+  {
+    "name": "Nagrik Stores",
+    "phone": "+(91)-22-25611183, +(91)-9322899766",
+    "address": "Shop No 10, SAI Jivan, Station Road, Mulund West, Mumbai - 400080, Opposite Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1782493333,
+        72.9643249444
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9322899766",
+    "preference": 1
+  },
+  {
+    "name": "Sweet Home Super Market",
+    "phone": "+(91)-22-61639235",
+    "address": "Shop No 6/7, Pandit Chawl, Jankalyan Nagar, Malad West, Mumbai - 400095, Opposite Shree Ram Bhavan,Off Marve Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.19715,
+        72.820617
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "M B Mart",
+    "phone": "+(91)-22-61637266",
+    "address": "Plot No A-1, A-2, Thavar Madan Chawl, Daftary Road, Malad East, Mumbai - 400097, Opposite Jain Mandir, Kurar Village, Near Highway",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1850083,
+        72.86185
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Central Store",
+    "phone": "+(91)-22-26253993, 26204210",
+    "address": "G/52, Juhu Church Road, Juhu, Mumbai - 400049, Gavthan No 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.110372,
+        72.826653
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Patel Provision Store",
+    "phone": "+(91)-22-26429202, +(91)-9820493540",
+    "address": "Shop No 8/9, Chhapra Building, Navpada Road, Bandra West, Mumbai - 400050",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820493540",
+    "preference": 1
+  },
+  {
+    "name": "Gangar Stores",
+    "phone": "+(91)-22-26495423, +(91)-9869104427",
+    "address": "Shop No 8, Halim Mansion, Tagore Kunj, Saraswati Road, Santacruz West, Mumbai - 400054, Opposite Podar School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.081664,
+        72.836237
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869104427",
+    "preference": 1
+  },
+  {
+    "name": "Selection Centre",
+    "phone": "+(91)-22-26044190, +(91)-7208034190",
+    "address": "17 Khar Municipal Market, 2nd Road, Khar West, Mumbai - 400052, Opposite Khar Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.068401,
+        72.839558
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7208034190",
+    "preference": 1
+  },
+  {
+    "name": "R.S. Mani Vegetables & Fruits",
+    "phone": "+(91)-22-24033444",
+    "address": "Shop No.2, Sapphire Bldg. Bhakti Park, Sector-2, Chs, Wadala East, Mumbai - 400037, Next Imax Adlabs Multiplex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.030511,
+        72.879953
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Welcome Stores",
+    "phone": "+(91)-22-28368020, +(91)-9869458121",
+    "address": "Plot -146, Chinar Bldg, Sher E Punjab Road, Andheri East, Mumbai - 400093, Opp Domnic Savio High School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.128,
+        72.8645
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869458121",
+    "preference": 1
+  },
+  {
+    "name": "Sweet Home Super Market",
+    "phone": "+(91)-22-28915263, +(91)-9819713040",
+    "address": "Shop No 2, Shayda E Hind Building, Borivali West, Mumbai - 400103, IC And LIC Colony",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.244847,
+        72.8509
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819713040",
+    "preference": 1
+  },
+  {
+    "name": "Palan Pasu & Company",
+    "phone": "+(91)-22-67973358, +(91)-9821078702",
+    "address": "Shop No-2 Station Veiw Building, Govandi Road, Chembur East, Mumbai - 400071, Opposite Chembur Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.062693,
+        72.901006
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821078702",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Coop Departmental S...",
+    "phone": "+(91)-22-25063243, +(91)-9322038468",
+    "address": "Shop No 7/8 Plot No 130 Mahavir Mahal, Ghatkopar East, Mumbai - 400077, Garodia Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.075709,
+        72.910553
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9322038468",
+    "preference": 1
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-250-4017640, 2510207",
+    "address": "Runwal Complex, Agashi Road, Virar West, Thane - 401303, Bolinj, Opposite Dhanlaxmi Bank",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Apna Bazar Coop Departmental S...",
+    "phone": "+(91)-22-24455195, 24195222",
+    "address": "Aaram Building, Ranade Road, Dadar West, Mumbai - 400028",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0220478,
+        72.83758
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "S Mart",
+    "phone": "+(91)-22-26849350, +(91)-9324913117",
+    "address": "Shop No 1 & 2 Prarthana Star Building, Andheri Sahar Road, Koldongri-Andheri East, Mumbai - 400069, Near Kalpita Enclaves",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.113167,
+        72.847833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9324913117",
+    "preference": 1
+  },
+  {
+    "name": "Roman General Stores",
+    "phone": "+(91)-22-26200954, +(91)-9819093252",
+    "address": "Om Satya Deep Society, Gulmohar Cross Road No.7, Juhu, Mumbai - 400049, J V P D Scheme, Near Gagandeep Bus Stop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.113619,
+        72.835638
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819093252",
+    "preference": 1
+  },
+  {
+    "name": "Shah Vasanji Damji",
+    "phone": "+(91)-22-23445792, +(91)-9321111210",
+    "address": "Shop No 376/377/378, D N Road, Crawford Market, Mumbai - 400001, Opposite Badshah Cold Drink House, Opposite CID Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9469806,
+        72.83397
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9321111210",
+    "preference": 1
+  },
+  {
+    "name": "Pavilion Stores",
+    "phone": "+(91)-22-26497101, +(91)-8879368475",
+    "address": "Shop No. 2, 15th Road, Khar West, Mumbai - 400052, Near Khar Gymkhana",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.070667,
+        72.832
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8879368475",
+    "preference": 1
+  },
+  {
+    "name": "OTC Masala & Dry Fruits",
+    "phone": "+(91)-22-28281264, +(91)-9819470772",
+    "address": "Shop No 14 A ,B Sheffield Building, East CS Road, Dahisar, Mumbai - 400068, Opposite Jarimari Garden, Anandnagar",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819470772",
+    "preference": 1
+  },
+  {
+    "name": "Amardeep General Store",
+    "phone": "+(91)-22-29451487, +(91)-9867931430",
+    "address": "Shop No-7/8, Surya Shopping Centre, Shrusti Complex, Sector -5, Mira Road, Thane - 401107, Nr. ICICI Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.274333,
+        72.8695
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867931430",
+    "preference": 1
+  },
+  {
+    "name": "Aasaan Store",
+    "phone": "+(91)-22-24020909, +(91)-8451040725",
+    "address": "Laxmi Narayan  Road, Matunga East, Mumbai - 400019, Near Matunga Railway Station, Opposite Kabutar Khana",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.027048,
+        72.849943
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8451040725",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Food spot shop",
+    "phone": "+(91)-9819069153",
+    "address": "Shop No 2, Kenwood Bldg, Dr Ambedkar Road, Bandra West, Mumbai - 400050",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.065405,
+        72.829737
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819069153",
+    "preference": 1
+  },
+  {
+    "name": "Mangalore General Stores",
+    "phone": "+(91)-22-24457542, +(91)-9869481129",
+    "address": "Shop No 8, Mohhamad Edu Manzil, Main Road, Mahim, Mumbai - 400016, Opposite Paradise Cinema ,76 Alj Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.038167,
+        72.842167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869481129",
+    "preference": 1
+  },
+  {
+    "name": "Dolce Vita",
+    "phone": "+(91)-9920335334",
+    "address": "Ground Floor, Grand Galleria, Lower Parel, Mumbai - 400013, High Street Phoenix, Phoenix Mills",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9971755,
+        72.8300078
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920335334",
+    "preference": 1
+  },
+  {
+    "name": "Hakimi Stores",
+    "phone": "+(91)-22-23459687, +(91)-9820359283",
+    "address": "301/302 Crawford Hair Tage Market, Crawford Market, Mumbai - 400001, Crawford Market Inside",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.947539,
+        72.834667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820359283",
+    "preference": 1
+  },
+  {
+    "name": "Daily Needs",
+    "phone": "+(91)-22-27564756, +(91)-9833097090",
+    "address": "F-4, Shop No 15, Cbd Belapur, Navi Mumbai - 400614, Sector 4",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833097090",
+    "preference": 1
+  },
+  {
+    "name": "Chheda Super Store",
+    "phone": "+(91)-22-28729907, +(91)-9833198920",
+    "address": "Shop No.14, Building No.19, S N Audumber Co Operative Housing Society Ltd, Shastri Nagar, Goregaon West, Mumbai - 400104, Play Ground Off New Link Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1605,
+        72.8365
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833198920",
+    "preference": 1
+  },
+  {
+    "name": "Priya Super Store",
+    "phone": "+(91)-22-26288844, +(91)-9833778144",
+    "address": "Shop No 1 & 2 BMC Market, N S Road No 6, Vile Parle West, Mumbai - 400056, Near Cooper Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.108108,
+        72.838913
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833778144",
+    "preference": 1
+  },
+  {
+    "name": "Kuvarji Khimraj & Company",
+    "phone": "+(91)-22-23463052, 23468907",
+    "address": "shop no 132 134, S V P Road, Null Bazar, Mumbai - 400003",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Kalwa Super Market",
+    "phone": "+(91)-22-25347267, 25368166",
+    "address": "Old Belapur Road, Kalwa, Thane - 400605, Kalwa Naka,Thane",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1956096,
+        72.98811
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Viraki Brothers",
+    "phone": "+(91)-22-23454788, +(91)-9821542799",
+    "address": "280/282, Satyam House, Narshi Natha Street, Masjid, Mumbai - 400003, Bhat Bazar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.955659,
+        72.8375638
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821542799",
+    "preference": 1
+  },
+  {
+    "name": "Anand Dairy Farm",
+    "phone": "+(91)-22-42733045",
+    "address": "Shop No 7-8, Hari Om Apartments, S V Road, Borivali West, Mumbai - 400092, Next To Vijay Sales Near Kalyan Jwellers",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.217869,
+        72.85187
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Shah Virji Rajpal & Company Ba...",
+    "phone": "+(91)-22-28053343, 28614992",
+    "address": "Shop no.9, Laxmi bhavan, Sv Road, Borivali West, Mumbai - 400092, Near Ganesh Store",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Aadhiganesh Stores",
+    "phone": "+(91)-22-25680906, +(91)-9869199427",
+    "address": "Vijay Nagar, Mulund West, Mumbai, J N Road, Mulund West, Mumbai - 400080",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1702430555,
+        72.9538888888
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869199427",
+    "preference": 1
+  },
+  {
+    "name": "Save Money General Store",
+    "phone": "+(91)-22-26323417, +(91)-9819413240",
+    "address": "Shop No 3, Nirman Cottage, Yari Road, Andheri West, Mumbai - 400061, Near Vimla Hospital, Versova",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1394576944,
+        72.80688475
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819413240",
+    "preference": 1
+  },
+  {
+    "name": "Satimata general and gift stores",
+    "phone": "+(91)-22-25534127, +(91)-9619586973",
+    "address": "Shop no. 5 sheth height building, Galiya court r c f road, Chembur East, Mumbai - 400074, Ashish theater",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0475444722,
+        72.9002990555
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9619586973",
+    "preference": 1
+  },
+  {
+    "name": "Satyam Stores",
+    "phone": "+(91)-22-28798048, 28798023",
+    "address": "Shop No 60,Bhanumati Society, Bangur nagar, Goregaon West, Mumbai - 400104, Near Bangur Nagar chowki",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.167492,
+        72.833892
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Deepak general store",
+    "phone": "+(91)-22-26353146, 26353405",
+    "address": "Shop no-10,bldg no-1, J.p road,four bungalow, Andheri West, Mumbai - 400053, Opp-uco bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.128972,
+        72.825638
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Manilal Provision Store",
+    "phone": "+(91)-22-23696229, +(91)-9969780540",
+    "address": "10 Ridge Road, Malabar Hill, Mumbai - 400006, Near Wiaa Club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9543348,
+        72.8034005
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9969780540",
+    "preference": 1
+  },
+  {
+    "name": "Wellness  forever",
+    "phone": "+(91)-22-28160077, +(91)-9028981001",
+    "address": "Shop 4/5, Kamla Park, A 2, 60 Feet Road, Bhayandar West, Thane - 401101, Near Bhayander Fatak",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9028981001",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Coop Departmental S...",
+    "phone": "+(91)-250-2415816",
+    "address": "Naigaon West, Thane - 401202, Virar Side",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Shah Ramji Bachubhai Kirana Store",
+    "phone": "+(91)-22-71041352",
+    "address": "Shop No 7 & 8, Mahesh Kunj, Tilak Road, Ghatkopar East, Mumbai - 400077, Opposite Balaji Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0794982777,
+        72.9075546111
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Central Stores",
+    "phone": "+(91)-22-29270101, +(91)-9820963131",
+    "address": "Shop No 1 & 2, Ram Mahal, Aarey Road, Goregaon East, Mumbai - 400063",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.16633,
+        72.854626
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820963131",
+    "preference": 1
+  },
+  {
+    "name": "Premji Lalji & Company",
+    "phone": "+(91)-22-26126600, +(91)-9820089799",
+    "address": "Zer Terrace, Nehru Road, Santacruz East, Mumbai - 400055, Opposite Post Office, Near Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0804991,
+        72.84329
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820089799",
+    "preference": 1
+  },
+  {
+    "name": "Highway Society Stores",
+    "phone": "+(91)-22-26473102, 26474316",
+    "address": "1/2,Bengli, Bandra East, Mumbai - 400051, Opposite Amrut Nagar, Khar Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0607083,
+        72.84508
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Garden Supermarket & General S...",
+    "phone": "+(91)-22-28495958, +(91)-9821984181",
+    "address": "Shop No 2, Satellite Garden, Phase 1, Film City Road, Goregaon East, Mumbai - 400063, Near Wageshwari Temple",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1755,
+        72.872667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821984181",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Manglore stores",
+    "phone": "+(91)-9987232155",
+    "address": "Shop No.4, 63-64 Aboobakar Mahal, J P Road, Andheri West, Mumbai - 400058, Bhavans College Lane,Nr-Rajkumar Bus Stop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.126433,
+        72.838525
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987232155",
+    "preference": 1
+  },
+  {
+    "name": "Laxmi general store",
+    "phone": "+(91)-8898448717",
+    "address": "Shop no.12,sagar kutir, Seven bungalows, Andheri West, Mumbai - 400061, Opp of ram mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.127695,
+        72.815353
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8898448717",
+    "preference": 1
+  },
+  {
+    "name": "Chheda Stores",
+    "phone": "+(91)-9833523191",
+    "address": "Shop.No-6, Rushi Villa, Sodawala Lane, Borivali West, Mumbai - 400092, Near Chamunda Circle",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.23298,
+        72.852203
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833523191",
+    "preference": 1
+  },
+  {
+    "name": "Mahalaxmi General Stores",
+    "phone": "+(91)-22-28375743, +(91)-9892566535",
+    "address": "294, Saket Prem, Shop No 1,3 & 4, Sher-E- Punjab Co-Operative Housinf Society, Mahakali Caves Road, Andheri East, Mumbai - 400093, Near Tolani College",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.129833,
+        72.8635
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892566535",
+    "preference": 1
+  },
+  {
+    "name": "SAI Distributors",
+    "phone": "+(91)-22-26056931, 26056932",
+    "address": "Shop No 2, Amore Commercial Premises C S Ltd, Khar West, Mumbai - 400052, Junction Of 2nd & 4th Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.07,
+        72.838833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Patel's R Mart",
+    "phone": "+(91)-251-2699113, +(91)-8007440465",
+    "address": "Vivekanand Arcade, Badlapur Ed, Thane - 421503, Gandhi Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1646527777,
+        73.2387847222
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8007440465",
+    "preference": 1
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 25507072",
+    "address": "BARC, Anushakti Nagar, Mumbai - 400094, Behind Dilwara Building",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0422058,
+        72.92023
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Prabhat Grahak Bazaar Pvt Ltd",
+    "address": "City Of Joy, Ground Floor, Meenakshi Apartments, Marve Road, Orlem-Malad West, Mumbai - 400064, Orlem, Lourdes Colony",
+    "category": "Grocery",
+    "city": "Mumbai"
+  },
+  {
+    "name": "Asmita Super Market",
+    "phone": "+(91)-22-65149681, +(91)-9324274740",
+    "address": "Poonam Sagar Complex, Mira Road, Thane - 401107, Above Casadella Bakery",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.282568,
+        72.859336
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9324274740",
+    "preference": 1
+  },
+  {
+    "name": "Chheda Grain & Provision Stores",
+    "phone": "+(91)-22-21027539, +(91)-9821808488",
+    "address": "Rajawadi, Ghatkopar East, Mumbai, Rajawadi Road, Ghatkopar East, Mumbai - 400077",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0797569444,
+        72.9040277777
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821808488",
+    "preference": 1
+  },
+  {
+    "name": "Vishnu Stores",
+    "phone": "+(91)-22-26141955, +(91)-9820781779",
+    "address": "Shop No 1,paranjpe wadi, M G Road, Vile Parle East, Mumbai - 400057, Paranjpe Wadi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1009387777,
+        72.8466949444
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820781779",
+    "preference": 1
+  },
+  {
+    "name": "Big Bazaar Direct Franchisee",
+    "phone": "+(91)-9004070839",
+    "address": "503, Sea Goddess Green Fields, A B Nair Road, Juhu, Mumbai - 400049, Opp Juhu P O",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9004070839",
+    "preference": 1
+  },
+  {
+    "name": "Parlekar Masala Supermarket",
+    "phone": "+(91)-22-26182944, +(91)-9323821941",
+    "address": "Shop no. 15 16 , Vanmalidas Compund, Tejpal Road, Vile Parle East, Mumbai - 400057, Opp Railway station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.091938,
+        72.8433837777
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9323821941",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Coop Departmental S...",
+    "phone": "+(91)-22-28162780",
+    "address": "Ashoka Shopping Centre, Navghar Road, Bhayandar East, Thane - 401105",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.3122596,
+        72.8538916
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Apna Bazar Co Operative Depart...",
+    "phone": "+(91)-22-27544786",
+    "address": "Plot No 6, Payal Co-Operative Housing Society, Indra Gandhi College Road, Kopar Khairane Sector 14, Navi Mumbai - 400709, Opposite CCD",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.099178,
+        73.003861
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "J D Brothers",
+    "phone": "+(91)-22-28629707, +(91)-9820210990",
+    "address": "Shop 1, Shiv Plaza, Station Road, Kandivali West, Mumbai - 400067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.203204,
+        72.850685
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820210990",
+    "preference": 1
+  },
+  {
+    "name": "G Mart",
+    "phone": "+(91)-22-29257788, +(91)-9819739070",
+    "address": "Shop No 1,2,3, Wp Kadam Niwas, Marol Maroshi Road, Andheri East, Mumbai - 400059, Near Sagar Sweet, Opposite Mea High School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.119667,
+        72.88
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819739070",
+    "preference": 1
+  },
+  {
+    "name": "Jai Bhavani General Store",
+    "phone": "+(91)-22-21022876, +(91)-9987634430",
+    "address": "Shop No 5/56, Vandana Building, Tilak Road,Ghatkopar East, Ghatkopar East, Mumbai - 400077, Vikrant Circle",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0753584,
+        72.9055498
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987634430",
+    "preference": 1
+  },
+  {
+    "name": "Sarvodaya Stores",
+    "phone": "+(91)-22-22813920, 22810065",
+    "address": "S.no. 81, Shop No 1, Marine Drive, Marine Drive, Mumbai - 400020, HVB Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.942497,
+        72.825522
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Novelty General Store",
+    "phone": "+(91)-22-21730720, +(91)-9029843733",
+    "address": "Amrapali Shopping Centre, Pokharan Road No.1, Vasant Vihar-Thane West, Thane - 400610, Vasant Vihar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.223025,
+        72.966597
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9029843733",
+    "preference": 1
+  },
+  {
+    "name": "Sagar Super Market",
+    "phone": "+(91)-22-28824848, +(91)-9820289752",
+    "address": "Shop No 71, Malwani No 1, Marve Road, Malad West, Mumbai - 400095, BMC Colony, Opp Radha Krishna Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1962299166,
+        72.8175888055
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820289752",
+    "preference": 1
+  },
+  {
+    "name": "Soni Society Stores",
+    "phone": "+(91)-22-25063304, +(91)-9820884737",
+    "address": "Shop No 5/6, Vikrant Building, Tilak Road, Ghatkopar East, Mumbai - 400077, Opposite Cafe Coffee Day",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0752830277,
+        72.9049606111
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820884737",
+    "preference": 1
+  },
+  {
+    "name": "Shree Ganesh Sweets",
+    "phone": "+(91)-22-67689222",
+    "address": "Shop No.22, Rangoli Building, Vasant Utasav Complex, Thakur Village, 120 Feet Road, Shyamnarayan Road, Kandivali East, Mumbai - 400101, Near Shree Ganesh Sidhivinayak Mandir, Near Thakur Collage",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.207062,
+        72.872842
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Neeta Stores",
+    "phone": "+(91)-22-26205910, +(91)-9821243079",
+    "address": "Shop No.5, Om Satyadeep Society, Gulmohar Cross Road No.7, Juhu, Mumbai - 400049, Opposite Bharat Gas Jvpd Scheme",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.113717,
+        72.835395
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821243079",
+    "preference": 1
+  },
+  {
+    "name": "Virchand Khimji & Co",
+    "phone": "+(91)-22-23070106, +(91)-9820140600",
+    "address": "144, Grant Road, Mumbai - 400007, Opposite Two Tank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.961968,
+        72.82834
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820140600",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Prabhat Super Bazar",
+    "phone": "+(91)-22-30587800, 30583336",
+    "address": "Shop No 15 & 16, Emerald Building, Powai Vihar Complex, Powai, Mumbai - 400076, Near Gopal Sharma School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.117,
+        72.902
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Goodluck General Stores",
+    "phone": "+(91)-22-26600877, +(91)-9819892526",
+    "address": "37, Guruashish Cooperative Society, North Avenue Road, Santacruz West, Mumbai - 400054, Near R B I Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.078403,
+        72.834589
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819892526",
+    "preference": 1
+  },
+  {
+    "name": "Popular Stores",
+    "phone": "+(91)-22-29276161, +(91)-9619202019",
+    "address": "Shop No 2, Kashi Niwas, Aarey Road, Goregaon East, Mumbai - 400063, Near Pritam Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.166398,
+        72.8523293
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9619202019",
+    "preference": 1
+  },
+  {
+    "name": "Lalit General Stores",
+    "phone": "+(91)-22-29677502, 65281567",
+    "address": "1-2, Bobby Shopping Complex, Mg Road, Dhanukar Wadi, Kandivali West, Mumbai - 400067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.207612,
+        72.835403
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Zorabian Mazda stores",
+    "phone": "+(91)-22-66824031",
+    "address": "679,kudiyana building, Katrak Road,Dadar Parsi colony, Wadala West, Mumbai - 400031, Near Suyog Restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0174369722,
+        72.8535690277
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Ras Sagar Sweet & Farsan",
+    "phone": "+(91)-22-69999030, +(91)-7666132855",
+    "address": "Shop No 7, Hari Darshan Society, Lt Road, Borivali West, Mumbai - 400092, Maharashtra Nagar, Opposite St Annes School",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7666132855",
+    "preference": 1
+  },
+  {
+    "name": "New k.k.super market",
+    "phone": "+(91)-22-66920944, +(91)-9920766045",
+    "address": "Shop no-c/12,minoo minar, Veera desai road, Andheri West, Mumbai - 400053, Near-courtyard restaurent",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1308135833,
+        72.8375701666
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920766045",
+    "preference": 1
+  },
+  {
+    "name": "Bombay Bazaar Ltd",
+    "address": "Shastri Nagar, Andheri West, Mumbai - 400053, Lokhandwala Complex",
+    "category": "Grocery",
+    "city": "Mumbai"
+  },
+  {
+    "name": "Maratha Co Operative Stores",
+    "phone": "+(91)-22-22823647, +(91)-9773471025",
+    "address": "40/A,Dena Bank Building, Shahid Bhagat Singh Marg, 3rd Pasta Lane, Colaba, Mumbai - 400005, Near Dena Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.917687,
+        72.827837
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9773471025",
+    "preference": 1
+  },
+  {
+    "name": "KB's fairprice",
+    "phone": "+(91)-8080859905",
+    "address": "Shop no.1, Trimurti Krupa chs., Eksar road, Borivali West, Mumbai - 400092, Near HDFC Bank / opposite tree house",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.235333,
+        72.846333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8080859905",
+    "preference": 1
+  },
+  {
+    "name": "The Sahara Q Shop - M002",
+    "phone": "+(91)-8097669953, 9892400883",
+    "address": "Sahara Q Shop, Yari Road-Versova, Mumbai - 400061, ABC Zohra Aghadi Nagar Co Op Society,Shop No 12, C Wing, Yari Road,Shop No 12, C Wing, Yari Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.138342,
+        72.810197
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Aashirwad provision store",
+    "phone": "+(91)-22-26361534, +(91)-9820666394",
+    "address": "Shop no-4&5,wing-b,royal sand bldg.no-2, Shastri nagar, Andheri West, Mumbai - 400053, Near-crystal plaza",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1372528055,
+        72.8293151666
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820666394",
+    "preference": 1
+  },
+  {
+    "name": "Ratana Super Market",
+    "phone": "+(91)-22-49179946",
+    "address": "Shop No 6, Flower Queen Co-Operative Housing Society, Veera Desai Road, Andheri West, Mumbai - 400058, Opposite Dominos",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1304340277,
+        72.8376388333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sai medical & general stores",
+    "phone": "+(91)-22-69951881, +(91)-9969070633",
+    "address": "Shop no-3,Om apartment,sunderban complex, Off link road, Andheri West, Mumbai - 400053, Near tannish showroom",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.137647,
+        72.829125
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9969070633",
+    "preference": 1
+  },
+  {
+    "name": "Consume Super Market",
+    "phone": "+(91)-22-28787171, +(91)-9769615570",
+    "address": "Nalanda Shopping Arcade, Station Road, Goregaon West, Mumbai - 400062, Opposite I B Patel School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1652098,
+        72.84667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9769615570",
+    "preference": 1
+  },
+  {
+    "name": "Parsram Kachomal Food Fashion",
+    "phone": "+(91)-251-2703553",
+    "address": "Awat Chowk, Ulhasnagar, Thane, Khemani Road,, Ulhasnagar No 2, Thane - 421002",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "New Top Choice",
+    "phone": "+(91)-22-65003943, 26325644",
+    "address": "Shop No 8, Accropolist, Road No 3, Andheri West, Mumbai - 400053, Lokhandwala Complex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1440305,
+        72.8238898
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Patel General Stores",
+    "phone": "+(91)-22-22151417, +(91)-9167012541",
+    "address": "Shop No 20, Hampton Court, Shahid Bhagat Singh Road,Colaba, Colaba, Mumbai - 400005, Near Colaba Post Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.911828,
+        72.821787
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167012541",
+    "preference": 1
+  },
+  {
+    "name": "Modern Stores",
+    "phone": "+(91)-22-26339085, +(91)-9769036123",
+    "address": "Shop 8, B-23 Wembley Chs, Shastri Nagar, Andheri West, Mumbai - 400053, Lokhandwala",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.138442,
+        72.8275
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9769036123",
+    "preference": 1
+  },
+  {
+    "name": "KB's Fair price",
+    "phone": "+(91)-7498019206, 7498274017",
+    "address": "shop no L1,L2 Nasheman Colony, Amrut Nagar-Mumbra, Thane - 400612, opposite MTNL office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1684684722,
+        73.0257034166
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Apna Bazar Coop Departmental S...",
+    "phone": "+(91)-22-27743623",
+    "address": "Balaji Angan Building, Kharghar, Navi Mumbai - 410210, Near Khargar Station & Opposite Irla Medical College, Belpada, Sector No. 3",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0297132,
+        73.0604178
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Ohris Super Market",
+    "phone": "+(91)-9920511919",
+    "address": "Shop No 20 Moraj Residency Plot No 1 Sector 16, Vashi, Navi Mumbai - 400703, Sanpada",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.058992,
+        73.004005
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920511919",
+    "preference": 1
+  },
+  {
+    "name": "Shah Traders",
+    "phone": "+(91)-22-28449845, +(91)-9773554022",
+    "address": "Shop No 4 & 5, Shah Arcade II, Rani Sati Marg, Malad East, Mumbai - 400097, Near Western Express Highway",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.182388,
+        72.856963
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9773554022",
+    "preference": 1
+  },
+  {
+    "name": "Patel general stores",
+    "phone": "+(91)-22-26317331, +(91)-9619515233",
+    "address": "Shop no-5,cross gate building, Samarth nagar, Andheri West, Mumbai - 400053, Opp-sanghivi hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.144036,
+        72.82373
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9619515233",
+    "preference": 1
+  },
+  {
+    "name": "Shah Bhimshi Naiya",
+    "phone": "+(91)-22-23621255, +(91)-9820107500",
+    "address": "Star Dust Building, 80 Napean Sea Road, Walkeshwar, Mumbai - 400006",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820107500",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Reliance General Stores",
+    "phone": "+(91)-22-25708619, 25703669",
+    "address": "Shop No 6, Cypress Building, Powai, Mumbai - 400076, IIT Powai, Hiranandani Garden",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1151633,
+        72.9079664
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "JASRAJ SUPERMART",
+    "phone": "+(91)-22-25215079, +(91)-9146525341",
+    "address": "VANI APARTMENT, A WING SHOP NO 12, Dr Choitram Gidwani Marg, Chembur East, Mumbai - 400071, OPPOSITE BORLA HOUSING SOCIETY",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0461101388,
+        72.9012756111
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9146525341",
+    "preference": 1
+  },
+  {
+    "name": "Balaji Traders",
+    "phone": "+(91)-22-28842727, +(91)-9819605727",
+    "address": "Dsouza Compound, Akurli Road, Kandivali East, Mumbai - 400101, Opposite E S I S Hospital",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819605727",
+    "preference": 1
+  },
+  {
+    "name": "Manek stores",
+    "phone": "+(91)-22-26481994, 26000427",
+    "address": "316, dun hill society, Dr Ambedkar Road, Khar West, Mumbai - 400052, Opp. Gurunanak hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.071386,
+        72.828133
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Anjali Super Market",
+    "phone": "+(91)-22-65544001, +(91)-9619421609",
+    "address": "Shop No 4 Bldg 20 Mahada Residential Complex, Off Link Road, Andheri West, Mumbai - 400053, Oshiwara Police Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.149239,
+        72.829513
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9619421609",
+    "preference": 1
+  },
+  {
+    "name": "Arvind Stores",
+    "phone": "+(91)-22-26002051",
+    "address": "125 A, Dr Ambedkar Road, Bandra West, Mumbai - 400050, Near Janta Bar Pali Naka",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Gala Super Market",
+    "phone": "+(91)-22-28782359, +(91)-9664515437",
+    "address": "34/275, Motilal Nagar, Goregaon West, Mumbai - 400104, Opp BEST Colony",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.15365,
+        72.840783
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9664515437",
+    "preference": 1
+  },
+  {
+    "name": "Surprise Super Mall",
+    "phone": "+(91)-22-61617782",
+    "address": "Shop No 10, Surprise Prathmesh Hill Building, Kolshet Road, Dhokali-Thane West, Thane - 400607",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.236808,
+        72.988651
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Shanti stores",
+    "phone": "+(91)-22-28428960, +(91)-9892278639",
+    "address": "L-29, Gokuldham Shopping Centre, Gokuldham Road, Goregaon East, Mumbai - 400063, Near Gokuldham School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.173162,
+        72.868044
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892278639",
+    "preference": 1
+  },
+  {
+    "name": "Variety General & Provision St...",
+    "phone": "+(91)-22-45111267",
+    "address": "Shop No 2, Haridwar Building, Evershine Nagar-Malad West, Mumbai - 400064, Opposite State Bank Of India",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.190875,
+        72.831603
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Milan Provision Stores",
+    "phone": "+(91)-22-28883001, +(91)-9833855412",
+    "address": "Shop No 14, Guru Krupa Building, evershine nagar, Malad West, Mumbai - 400064, near sbi bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1912021388,
+        72.8312759166
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833855412",
+    "preference": 1
+  },
+  {
+    "name": "Devraj Ganpat & Company",
+    "phone": "+(91)-22-26774597, +(91)-9224435575",
+    "address": "142, Parshuram Building, J P Road, Andheri West, Mumbai - 400058, Near Ram Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.122764,
+        72.8452
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9224435575",
+    "preference": 1
+  },
+  {
+    "name": "Super Bazar",
+    "phone": "+(91)-22-28054243, +(91)-9869632385",
+    "address": "Deepmala Building 1, Shop No 9a, Malad West, Mumbai - 400095, Malwani No 1, Bafira Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.196042,
+        72.821878
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869632385",
+    "preference": 1
+  },
+  {
+    "name": "Roman Dry Fruits",
+    "phone": "+(91)-22-23851192, +(91)-9969865688",
+    "address": "457, Dwarkadas Mansion, Phenix Building, S V P Road, Opera House, MUMBAI - 400004, Pratnna Samaj",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9575717,
+        72.81882
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9969865688",
+    "preference": 1
+  },
+  {
+    "name": "Deepak Society Store",
+    "phone": "+(91)-9821375658",
+    "address": "Jay Kay Industial, Link Road, Santacruz West, Mumbai - 400054, Near Shastri Nagar",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821375658",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Coop Departmental S...",
+    "phone": "+(91)-22-24094605, +(91)-9819236981",
+    "address": "Shop No 4/5/6, Flank Road, Sion Koliwada, Mumbai - 400022, Sardar Nagar 1",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.039786,
+        72.866005
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819236981",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar",
+    "phone": "+(91)-22-25136796, 25019500",
+    "address": "Shop No 3, Ghatkopar East, Mumbai - 400077, Near Post Office & Ration Shop, Gp Pantnagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0792367,
+        72.90198
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Hari Om Traders",
+    "phone": "+(91)-22-28908081, +(91)-9324461884",
+    "address": "Shop No 4-5, Mithaghar Road, Dahisar, Mumbai - 400068, Opp Dahiwali Building",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9324461884",
+    "preference": 1
+  },
+  {
+    "name": "Roman General & Provision Stores",
+    "phone": "+(91)-22-32902059, +(91)-9892452645",
+    "address": "Shop No 5,Parvati Nagar Chs., Yari Road, Versova Village, Mumbai - 400061, Nr-Ganesh SAI Mandir",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892452645",
+    "preference": 1
+  },
+  {
+    "name": "Mukesh Trading Co",
+    "phone": "+(91)-22-25896748",
+    "address": "C 4 Kothari Warehouse No 3 Premises Chs Ltd, Tikujini Wadi Road, Manpada-Thane West, Thane - 400607, Near D Mart",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.23473,
+        72.969605
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Central Society Stores",
+    "phone": "+(91)-22-26112433, +(91)-9892243628",
+    "address": "Saroj Sadan Building, Nehru Road, Vile Parle East, Mumbai - 400057, Dixit Road Corner",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0979576111,
+        72.8487548611
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892243628",
+    "preference": 1
+  },
+  {
+    "name": "Rishikesh Bakery & General Stores",
+    "phone": "+(91)-22-26367636, +(91)-9819953703",
+    "address": "Avinash Buidling , Shop No 2, J P Road, Andheri West, Mumbai - 400053, Opp Bus Depot Seven Bunglow",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1305,
+        72.819197
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819953703",
+    "preference": 1
+  },
+  {
+    "name": "Food Plaza Super Market",
+    "phone": "+(91)-22-45207906",
+    "address": "Plot No 15/ 17, Patel Heritage, Shop No 64/ 65, Sector No 7, Kharghar, Navi Mumbai - 410210, Next To Oriental Bank And Abhyudaya Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.034833,
+        73.066222
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Gujarals Meha Mart",
+    "phone": "+(91)-22-64533558, +(91)-9594288404",
+    "address": "Tobotil, Shop No 18, Govandi Street, Govandi East, Mumbai - 400088, Near SBI Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.053014,
+        72.915833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9594288404",
+    "preference": 1
+  },
+  {
+    "name": "Maateshwari Grain Stores",
+    "phone": "+(91)-22-28571073, +(91)-9680543937",
+    "address": "Shop No 22 Srishti Complex, Saki Vihar Road, Powai, Mumbai - 400076, Opposite L & T Gate No.7",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1215,
+        72.891667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9680543937",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Paras Dryfruit Centre & Genera...",
+    "phone": "+(91)-22-28402261, +(91)-9820585883",
+    "address": "L-16, Gokuldham Shopping Centre, Krishna Vatika Road Flim City Road, Goregaon East, Mumbai - 400063, Near Gokuldham School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.173162,
+        72.868044
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820585883",
+    "preference": 1
+  },
+  {
+    "name": "Chheda Store",
+    "phone": "+(91)-9769651648, 9833622968",
+    "address": "Shop No. 1, R.K.V. Road, Dadar West, Mumbai - 400028",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.022333,
+        72.840167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Central Stores",
+    "phone": "+(91)-22-5162881, 5132959",
+    "address": "1,2,3, Rattan Mahal, Stn Rd, Ghatkopar West, Mumbai - 400086",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Jeevan Society Stores",
+    "phone": "+(91)-22-26497340, +(91)-9819846442",
+    "address": "Model Building, 2nd Road, Khar West, Mumbai - 400052, Near Kabutar Khana",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.07191275,
+        72.8374328611
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819846442",
+    "preference": 1
+  },
+  {
+    "name": "Mitrash Masala",
+    "phone": "+(91)-22-27838086, +(91)-9892569982",
+    "address": "A/7 2, Apmc Market, Navi Mumbai - 400705, Dana Bazar Apmc Market 2, Sector 19",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892569982",
+    "preference": 1
+  },
+  {
+    "name": "Future Consumers",
+    "phone": "+(91)-7498403545",
+    "address": "Patidar Complex, Vikhroli East, Mumbai - 400083, Kannamwar Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1186518,
+        72.9381305
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7498403545",
+    "preference": 1
+  },
+  {
+    "name": "Society stores",
+    "phone": "+(91)-22-26369825, +(91)-9820404372",
+    "address": "Shop no-2,clean field building, Andheri West, Mumbai - 400053, Opp-kamat club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.144714,
+        72.823647
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820404372",
+    "preference": 1
+  },
+  {
+    "name": "Ravi Super Market",
+    "phone": "+(91)-22-29276957, +(91)-9820142808",
+    "address": "Shop No 8, Shree Niketan, Pandurang Wadi Road, Goregaon East, Mumbai - 400063, Near St Thomas School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.169755,
+        72.849572
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820142808",
+    "preference": 1
+  },
+  {
+    "name": "Geetanjali Super Market",
+    "phone": "+(91)-22-23813514, +(91)-9969655267",
+    "address": "3/4, Suratwala Building,211, Raja Ram Mohan Roy Marg, Charni Road, Mumbai - 400004, Opposite Brahman Sabha, R R M Roy Marg",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9559612222,
+        72.8189086666
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9969655267",
+    "preference": 1
+  },
+  {
+    "name": "Central  Store",
+    "phone": "+(91)-9833187074",
+    "address": "335, Bandra Bazar Road, Bazar Road, Bandra West, Bandra West, Mumbai - 400050, Opposite Laccy Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.053167,
+        72.837333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833187074",
+    "preference": 1
+  },
+  {
+    "name": "The Q Shop - M007-Sahara Q Shop",
+    "phone": "+(91)-9892400883",
+    "address": "Shree Ram Borewell, Thane West, Thane - 400601, Shop No :- 42, Lodha Boulevard,Near Lodha Paradise, Thane West",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892400883",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Co Operative",
+    "phone": "+(91)-22-25535323, 25537984",
+    "address": "Building No 3, Type 3, RCF Colony, Chembur East, Mumbai - 400071, Oppsitie Golf Club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0430501,
+        72.89972
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Apna Bhandar",
+    "phone": "+(91)-22-42737883",
+    "address": "Laxmi Industrial, Pokharan Road No 1, Vartak Nagar-Thane West, Thane - 400606, Beside Thane Janata Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.21092,
+        72.96093
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Janta General & Provision Stores",
+    "phone": "+(91)-22-32098845, +(91)-8097266805",
+    "address": "Kaskar Chawl No.3,Joseph Patelwadi, Main Fisheries Lane,Off-Yari Road, Andheri West, Mumbai - 400061, Near Gulshan Colony,Seven Bunglows",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.133833,
+        72.8145
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8097266805",
+    "preference": 1
+  },
+  {
+    "name": "Visha Super Market",
+    "phone": "+(91)-22-23813657, +(91)-9224355445",
+    "address": "2/3 Royal Chambers, H G Road, Gamdevi, Mumbai - 400007, Opposite J K Building No 5",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.958667,
+        72.812833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9224355445",
+    "preference": 1
+  },
+  {
+    "name": "Gourmet West",
+    "phone": "+(91)-22-66360499, +(91)-7208010453",
+    "address": "C/O Westside Store, Ground Floor, Army & Navy Building, 148 M G Road, Fort, Mumbai - 400001, Opposite Jehangir Art Gallery, Kala Ghoda",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9279858,
+        72.83098
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7208010453",
+    "preference": 1
+  },
+  {
+    "name": "Anand store",
+    "phone": "+(91)-22-26320845, +(91)-9819769448",
+    "address": "Shop no-5,skyway bldg, Shastri nagar, Andheri West, Mumbai - 400053, Near lokhandwala complex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.138325,
+        72.826697
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819769448",
+    "preference": 1
+  },
+  {
+    "name": "Ambika General Stores",
+    "phone": "+(91)-22-64461843, +(91)-9833228732",
+    "address": "Shop No 9, Parvati Nagar Co-Op.Housing Society, Yari Road, Andheri West, Mumbai - 400061, Near Ganesh SAI Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.138653,
+        72.80803
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833228732",
+    "preference": 1
+  },
+  {
+    "name": "Rajeshwar super market",
+    "phone": "+(91)-9702808948",
+    "address": "shaop no.1.joshefh patel wadi, off yari road seven banglow, Versova Village, Mumbai - 400061, opp. saidham mitra mandal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1330566388,
+        72.8147582777
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9702808948",
+    "preference": 1
+  },
+  {
+    "name": "Ajanta Super Mart",
+    "phone": "+(91)-9820131663",
+    "address": "Shop No 2, Datta Mandir Road, Malad East, Mumbai - 400097, Opposite Jain Derasar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1899623611,
+        72.8529586666
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820131663",
+    "preference": 1
+  },
+  {
+    "name": "Liberty general store",
+    "phone": "+(91)-22-26313260, +(91)-9867686909",
+    "address": "Shop no-5/a,manish shopping centre, J.p.road, Andheri West, Mumbai - 400053, Four bungalow",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.128111,
+        72.827278
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867686909",
+    "preference": 1
+  },
+  {
+    "name": "Shree Classic Super Bazaar",
+    "phone": "+(91)-22-23473400, +(91)-9820614738",
+    "address": "250 Narsi Natha Street, Masjid, Mumbai - 400003, Bhat Bazar",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820614738",
+    "preference": 1
+  },
+  {
+    "name": "Hari Om Provision Stores",
+    "phone": "+(91)-22-28856241, +(91)-9870573256",
+    "address": "Shop No.4,3 Angan Building, Thakur Village, Shyamnaryan Road, Kandivali East, Mumbai - 400101, Thakur Village & Near Challenger Towe,Near Thakur Cinema",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.208447,
+        72.872428
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9870573256",
+    "preference": 1
+  },
+  {
+    "name": "Prabhat Store",
+    "phone": "+(91)-22-29672215, +(91)-9820002517",
+    "address": "Shop No 7, Dahanukar Building, Mahesh Residency, M G Road, Kandivali West, Mumbai - 400067, Dahanukarwadi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.207287,
+        72.837478
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820002517",
+    "preference": 1
+  },
+  {
+    "name": "6 Ten Supermarket",
+    "phone": "+(91)-9769997836, 9221263647",
+    "address": "Shop 7, Marval Building, Shastri Nagar-andheri West, Mumbai - 400053, Lokhandwala",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.14682,
+        72.824137
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  }
+
+,
+
+  {
+    "name": "Amardeep Grain & Provision Stores",
+    "phone": "+(91)-22-67689119",
+    "address": "Shop No 3, Skyway Building, Andheri West, Mumbai - 400053, Near Lokhandwala Circle, Shastri Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.138395,
+        72.826605
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Kapole Stores",
+    "phone": "+(91)-22-42732043",
+    "address": "Shop No 12/13, Building No 29 B, Mira Mansion, Sion, Mumbai - 400022, Opposite Punjab National Bank, Sion Cirlce",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.043043,
+        72.863366
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Chandrakiran Provision Stores",
+    "phone": "+(91)-22-45111238",
+    "address": "3/4, Pratik Building, SAI Baba Complex, Mohan Gokhale Road, Goregaon East, Mumbai - 400063, Near Oberoi International School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.168713,
+        72.867492
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Shree Laxmi General Stores",
+    "phone": "+(91)-22-26482376, 26040979",
+    "address": "Shop No 3 71-A, Dr Ambedkar Road, Khar West, Mumbai - 400052, Near Olive Restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.072675,
+        72.827147
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Food Plaza Grocery & Provision...",
+    "phone": "+(91)-22-26432250, +(91)-9819122629",
+    "address": "Shop No 5, Shahina Co Operative Housing Society Ltd, Pali Mala Road, Bandra West, Mumbai - 400050, Pali Naka",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.062245,
+        72.829704
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819122629",
+    "preference": 1
+  },
+  {
+    "name": "Sahara Q shop",
+    "phone": "+(91)-22-65340497, +(91)-9987154622",
+    "address": "Nilesh Apartment, Station Road, Thane West, Thane - 400601, Opposite Deepak Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1921081388,
+        72.9760894722
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987154622",
+    "preference": 1
+  },
+  {
+    "name": "Famous Stores",
+    "phone": "+(91)-22-26480451",
+    "address": "Atma Bhuvan, First Road,, Khar West, Mumbai - 400052",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "The Sahara Q Shop - M001",
+    "phone": "+(91)-9892400883",
+    "address": "Sahara Q Shop, Hari Om Nagar-Mulund East, Mumbai - 400081, Shop No 11, Sunplaza Shopping Centre,Hari Om Nagar, Mulund Ehari Om Nagar,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.176912,
+        72.971563
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892400883",
+    "preference": 1
+  },
+  {
+    "name": "Shivam Enterprises",
+    "phone": "+(91)-22-27832793, +(91)-9820424437",
+    "address": "A-26, Apmc Market No 2, Vashi, Navi Mumbai - 400703, Dana Bunder, Sector- 19",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820424437",
+    "preference": 1
+  },
+  {
+    "name": "Vishwas Sweets & Bhelpuri Centre",
+    "phone": "+(91)-22-49180315",
+    "address": "Shop No 1 Ganesh Niwas, Mathuradas Road, Kandivali West, Mumbai - 400067, Near Punjab National Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.203163,
+        72.847725
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Shakti Provison Store",
+    "phone": "+(91)-22-28813076, +(91)-9820734908",
+    "address": "Shop No 20, Gurukripa Bldg, Malad West, Mumbai - 400064, Evershine Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1911893,
+        72.83137
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820734908",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Co Operative Depart...",
+    "phone": "+(91)-22-25297922, +(91)-9004500021",
+    "address": "Shop No 13/14, Pastem Sagar, Chembur West, Mumbai - 400089, Opposite Sahakar Cinema, Tilak Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.050877,
+        72.895048
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9004500021",
+    "preference": 1
+  },
+  {
+    "name": "Micky Store",
+    "phone": "+(91)-22-26326127, +(91)-9819950246",
+    "address": "Shop No 1, Y-4, Marble Arch Society, Lokhandwala Complex-Andheri West, Mumbai - 400053, Near HDFC Bank, Shastri Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.139478,
+        72.826697
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819950246",
+    "preference": 1
+  },
+  {
+    "name": "Sheetal General Stores",
+    "phone": "+(91)-22-26355042, +(91)-9768712528",
+    "address": "Shop No 11, Navjit Nagar, Church Road,, Andheri West, Mumbai - 400053, Near Char Banglow",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.124886,
+        72.825668
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9768712528",
+    "preference": 1
+  },
+  {
+    "name": "Mahavir Provision Stores",
+    "phone": "+(91)-22-22840778, 22824509",
+    "address": "Shalimar Shopping Centre, Lala Nigam Road, Colaba, Mumbai - 400005, Colaba Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9156,
+        72.826813
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Balubhai Dharsi & Company",
+    "phone": "+(91)-22-28721636, +(91)-9892388188",
+    "address": "Shop No 8/9, Tripathi Bhawan, Aarey Road, Goregaon West, Mumbai - 400062, Opposite Jain Temple",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1668515,
+        72.84813
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892388188",
+    "preference": 1
+  },
+  {
+    "name": "Haria Provision Store",
+    "phone": "+(91)-22-26713442, +(91)-9819813364",
+    "address": "3,Jayshree Building, Bajaj Road, Vile Parle West, Mumbai - 400056, Opposite Lkp",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1065147,
+        72.8387171
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819813364",
+    "preference": 1
+  },
+  {
+    "name": "Ambe DryFruits",
+    "phone": "+(91)-9820403146",
+    "address": "Shop no 3,, Ceaser Roab, Andheri West, Mumbai - 400058, Nr. Saint Blaise Church",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.127761,
+        72.8453
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820403146",
+    "preference": 1
+  },
+  {
+    "name": "D3 Super Market",
+    "phone": "+(91)-9967783233",
+    "address": "Shop No 5/6, Chandivali Farm Road, Andheri East, Mumbai - 400072, Nera Nahar Shopping Center",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.111872,
+        72.897583
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9967783233",
+    "preference": 1
+  },
+  {
+    "name": "Regal Super Market",
+    "phone": "+(91)-22-49182933",
+    "address": "Shop No 1,Om Satyadeep Chs, Gulmohar Cross Road No. 7, Juhu, Mumbai - 400049, Near Costa  Coffee,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.113717,
+        72.835395
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Shiv Kripa Sweets & Namkeen",
+    "phone": "+(91)-22-27802282, 22927690",
+    "address": "F 6 Building, Shop no7/8,sector 10, Vashi, Navi Mumbai - 400703, Near,Trimurti hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0830230555,
+        73.0007171388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Variety Grain Stores",
+    "phone": "+(91)-22-25152750",
+    "address": "Shop No 3 & 4,Dhiraj Bhavan, L B S Marg, Ghatkopar West, Mumbai - 400086, Near Gopal bhavan",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0929355555,
+        72.9007034166
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Charla General Stores",
+    "phone": "+(91)-22-26710174, +(91)-9820920672",
+    "address": "Shanti Niketan, 141 S V Road, Vile Parle West, Mumbai - 400056, Irla",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.106247,
+        72.840278
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820920672",
+    "preference": 1
+  },
+  {
+    "name": "Ajit Dryfruit & Provision",
+    "phone": "+(91)-22-49187254",
+    "address": "2 And 3, New Lalan Building, P K Road, Mulund West, Mumbai - 400080, Near Sunmal Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.175167,
+        72.9515
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Ahmed Mills",
+    "phone": "+(91)-22-28320426, +(91)-9967858813",
+    "address": "Shop 6, Mukund Nagar, Marol Pipe Line, A K Road, Andheri East, Mumbai - 400059, Near Mukund Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.110833,
+        72.872167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9967858813",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Yash Traders",
+    "phone": "+(91)-22-49178539",
+    "address": "E17, New Bhoomi Park, Phase 2, Malad West, Mumbai - 400095, Besides Billabong High School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.200642,
+        72.82142
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Nagrik Suvidha",
+    "phone": "+(91)-22-26186947, 26134278",
+    "address": "Plot No 50, Vinod Kunj, M G Road, Vile Parle East, Mumbai - 400057, Opposite Bank Of Baroda",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.100167,
+        72.846167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Sohini Provision Stores",
+    "phone": "+(91)-22-26148570, +(91)-8796174547",
+    "address": "Shop No 2, Dashrathlal Joshi Marg, Vile Parle West, Mumbai - 400056, Near Bank Of Baroda",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.100283,
+        72.842012
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8796174547",
+    "preference": 1
+  },
+  {
+    "name": "Patel Bros",
+    "phone": "+(91)-22-22816045, +(91)-9819988625",
+    "address": "Shop No 3, Badrikeshwar Building, Marine Drive, Mumbai - 400020, Near Hindi Vidya Bhavan School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.941833,
+        72.8265
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819988625",
+    "preference": 1
+  },
+  {
+    "name": "Laxmi General Stores",
+    "phone": "+(91)-22-25127341, +(91)-9892565517",
+    "address": "Shop No.9, Navratna Shopping Center New Maneklal Est, L B S Marg, Ghatkopar West, Mumbai - 400086, Opposite To Muncipal Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.089869,
+        72.902625
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892565517",
+    "preference": 1
+  },
+  {
+    "name": "Shree Ramdev General Store",
+    "phone": "+(91)-22-26398819, +(91)-9987752332",
+    "address": "Sunderwadi,Flower Chawl,Seven Bunglow, Panchwati Road,Off-Yari Road, Andheri West, Mumbai - 400061, Opposite Resham Apartments",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.133831,
+        72.8175125
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987752332",
+    "preference": 1
+  },
+  {
+    "name": "Diamond soap center",
+    "phone": "+(91)-22-65968600, +(91)-9833227775",
+    "address": "Shop no 1 nanadkripa shopping center, Ratan nagar four bunglow, Andheri West, Mumbai - 400053, Near Shri Sai Ganesh Mandir, Ratan Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.128269,
+        72.825028
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833227775",
+    "preference": 1
+  },
+  {
+    "name": "The Q shop",
+    "phone": "+(91)-22-64500208, +(91)-8655576370",
+    "address": "Shop No 3 Hiradham Chs, Off Link Road, Andheri West, Mumbai - 400053, Near Tanishq Jewellery",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.137508,
+        72.829047
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8655576370",
+    "preference": 1
+  },
+  {
+    "name": "Jagruti Dry Fruits & General S...",
+    "phone": "+(91)-22-28351080, +(91)-9819153451",
+    "address": "Shop No.5, Mahakali Caves Road, Andheri East, Mumbai - 400093, Opposite St. Xaviers High School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1380528,
+        72.8691949
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819153451",
+    "preference": 1
+  },
+  {
+    "name": "Apna bazaar",
+    "phone": "+(91)-22-28783871, +(91)-9869996751",
+    "address": "Unnatural nagar No-2, Yeshwant nagar Goregaon, Goregaon West, Mumbai - 400062",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.166667,
+        72.843333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869996751",
+    "preference": 1
+  },
+  {
+    "name": "Deepak Trading Co",
+    "phone": "+(91)-22-25369642, 25303933",
+    "address": "Prance House, Devidas Road, Thane West, Thane - 400601, Opp Bora Mashid",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.194667,
+        72.979
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Food Max",
+    "phone": "+(91)-9076001019, 8692922366",
+    "address": "Shop No-10,11,12,13, Pratham Heritage, Plot No-11/12, Sector -19, Kamothe, Navi Mumbai - 410206, Near Khandeshwar Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.013789,
+        73.094345
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Glory Super Market",
+    "phone": "+(91)-22-28215343, +(91)-9819380350",
+    "address": "Shop No. 3, Landmark Building, Mahakali Caves Road, Andheri East, Mumbai - 400093, Opposite Saint Xavier School Punam Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.137756,
+        72.869445
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819380350",
+    "preference": 1
+  },
+  {
+    "name": "Honesty Trading Company",
+    "phone": "+(91)-22-28781161, +(91)-9323943354",
+    "address": "Shop 1/2/3 Shilpan Apartment, Chincholi Bunder Road, Malad West, Mumbai - 400064, Opp Sachin Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1791032,
+        72.84075
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9323943354",
+    "preference": 1
+  },
+  {
+    "name": "Mumbai Masala Shop",
+    "phone": "+(91)-22-61626113",
+    "address": "Shop No 4 And 5, J P Road, Andheri West, Mumbai - 400053, Nand Kripa Annex Shopping Centre, Ratan Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.128333,
+        72.825
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "New Patel Traders",
+    "phone": "+(91)-22-27892385, 27892386",
+    "address": "C 61/62, Vashi, Navi Mumbai - 400703, Apmc Masala Market 1,",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Real Super Store",
+    "phone": "+(91)-22-26334440, +(91)-9833948904",
+    "address": "Shop No 1/2, Plot No 17, Versova Akashdeep, Telephone Exchange Road, Andheri West, Mumbai - 400053, S V P Nagar, Mhada, Versova, 4 Bunglow",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.146594,
+        72.828628
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833948904",
+    "preference": 1
+  },
+  {
+    "name": "Prabhat Super Market",
+    "phone": "+(91)-22-29256213, +(91)-9821613626",
+    "address": "Shop No 1/2 Orchid Palace, Marol Military Road, Andheri East, Mumbai - 400059, Near Ganesh Pada Bus Stop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.111783,
+        72.897888
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821613626",
+    "preference": 1
+  },
+  {
+    "name": "Ganesh Provision Stores",
+    "phone": "+(91)-22-28980165, +(91)-9869992256",
+    "address": "Shop no.  03, Atul Apartment, L T Road, Borivali West, Mumbai - 400092, Opposite Punjab & Sindh Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.228622,
+        72.846
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869992256",
+    "preference": 1
+  },
+  {
+    "name": "Malad Shopping Centre",
+    "phone": "+(91)-22-28899257",
+    "address": "1st Floor,S.V. Road, Near Saibaba Mandir, Malad West, Malad East, Mumbai - 400097",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Murgan General Store",
+    "phone": "+(91)-22-32483052, +(91)-8286502433",
+    "address": "Jagurti Chwal, Azad Road,Lane no 3, Andheri East, Mumbai - 400069, Near Rose View Building",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1195297222,
+        72.8555145
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8286502433",
+    "preference": 1
+  },
+  {
+    "name": "Vondh stores",
+    "phone": "+(91)-22-28543597, +(91)-9821435957",
+    "address": "Shop no 9 , Anant Apartments, Thakur complex, Kandivali East, Mumbai - 400101, Near highway",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.20738,
+        72.864838
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821435957",
+    "preference": 1
+  },
+  {
+    "name": "Jayant Stores",
+    "phone": "+(91)-22-26480499, +(91)-9819124502",
+    "address": "40 A, Mark Villas, Shirley Rajan Road, Bandra West, Mumbai - 400050, Opp. Yoga house",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.065886,
+        72.824722
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819124502",
+    "preference": 1
+  },
+  {
+    "name": "Bhoomi Supermarket",
+    "phone": "+(91)-9967689246, 9022755705",
+    "address": "Shop No-31, Bhoomi Park, Phase-1, Marve Road, Malad West, Mumbai - 400095, Near Billabong School,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.201663,
+        72.820795
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Food Mart",
+    "phone": "+(91)-9833219585, 9819971726",
+    "address": "Shop No 3/4, Moreshwar Heights, Kamothe, Navi Mumbai - 410209, Sector 34",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0136011,
+        73.09132
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  }
+
+,
+
+  {
+    "name": "Real super market",
+    "phone": "+(91)-22-29205060, +(91)-9819656696",
+    "address": "Shop no.5, Vijay Tower, Marol military Road, Andheri East, Mumbai - 400059, Vijay Nagar, Opposite Vicent Pollotty Church",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.121295,
+        72.880272
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819656696",
+    "preference": 1
+  },
+  {
+    "name": "Nandadeep Society Super Market",
+    "phone": "+(91)-22-28051470, +(91)-9594865789",
+    "address": "2/9, Turkhia Park, M G Road, Kandivali West, Mumbai - 400067, Near Corporation Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.206908,
+        72.844413
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9594865789",
+    "preference": 1
+  },
+  {
+    "name": "Swastik Super Market",
+    "phone": "+(91)-22-28721827, +(91)-9892656070",
+    "address": "S-1, 12, S V Road, Malad West, Mumbai - 400064, Sunder Nagar, Opposite Umed Bhai Patel School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.175937,
+        72.841837
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892656070",
+    "preference": 1
+  },
+  {
+    "name": "Shree Dedhia Stores",
+    "phone": "+(91)-22-28903772, +(91)-9819611647",
+    "address": "Shop No 10, Chandavarkar Road, Borivali West, Mumbai - 400092, Near Tata Indicom",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819611647",
+    "preference": 1
+  },
+  {
+    "name": "Laxmi Balaji provision stores",
+    "phone": "+(91)-22-26361978, +(91)-9930281812",
+    "address": "Shop no-2,Hilton bldg no-6, Shastri nagar, Andheri West, Mumbai - 400053, Near ajmera housing soc,lokhandwala complex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.138281,
+        72.826088
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9930281812",
+    "preference": 1
+  },
+  {
+    "name": "Shri patel dry fruit",
+    "phone": "+(91)-22-49184914",
+    "address": "Shop no-62,d-5 angharki society, Old Mahada, Andheri West, Mumbai - 400053, Near-janki Devi public school",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.137733,
+        72.821572
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Amit Stores",
+    "phone": "+(91)-22-23510556, +(91)-9867195153",
+    "address": "28/A,Bachubhai Niwas, Bhulabhai Desai Road, Breach Candy, Mumbai - 400026, Mahalaxmi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9789161666,
+        72.8099593888
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867195153",
+    "preference": 1
+  },
+  {
+    "name": "Ration Issue Centre",
+    "phone": "+(91)-22-22152111",
+    "address": "Colaba, Mumbai - 400005, Near Bus Depot Number 3, Navy Nagar",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "D Bazaar",
+    "phone": "+(91)-22-25668000, +(91)-9833887080",
+    "address": "Shop No 18 Anil And Anant Estate, Village Road, Bhandup West, Mumbai - 400078",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.15195,
+        72.939033
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833887080",
+    "preference": 1
+  },
+  {
+    "name": "Vardhaman Stores",
+    "phone": "+(91)-22-28656596, +(91)-9867641883",
+    "address": "B/1,Silver Craft, Adarsh Dairy Lane, Malad West, Mumbai - 400064, Near Indian Overseas Bank, Off Marve Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.192783,
+        72.841492
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867641883",
+    "preference": 1
+  },
+  {
+    "name": "Shree Viraj & Co",
+    "phone": "+(91)-22-26280679, +(91)-9820974690",
+    "address": "Anuradha, A,Shop-7, Irla Bridge,S.v.rd, Andheri West, Mumbai - 400058, Near Jain Temple",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1112995,
+        72.8413543611
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820974690",
+    "preference": 1
+  },
+  {
+    "name": "Laxmi Medical & General store",
+    "phone": "+(91)-22-26361491, +(91)-9833394004",
+    "address": "Shop no-2/3,mohid height, R.t.o lane, Andheri West, Mumbai - 400053, Near masala manter",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.134155,
+        72.825822
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833394004",
+    "preference": 1
+  },
+  {
+    "name": "Divya Pharma Medical & General...",
+    "phone": "+(91)-22-24445113, +(91)-9819728259",
+    "address": "9-B,Dhansiddhinayk Socity, Dilipgupte Marag, Mahim, Mumbai - 400016, Nr Hinduja Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.033106,
+        72.840133
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819728259",
+    "preference": 1
+  },
+  {
+    "name": "Gulshan Stores",
+    "phone": "+(91)-22-24128960, +(91)-9819473787",
+    "address": "807 Imperial Mahal B, Dr Ambedkar Road, Dadar East, Mumbai - 400014, Dadar T T Near Dena Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.017528,
+        72.848008
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819473787",
+    "preference": 1
+  },
+  {
+    "name": "Ashapura Super Market",
+    "phone": "+(91)-22-28923428, +(91)-9819983073",
+    "address": "Shop No 1, Eksar Lucky Star, Eksar Road, Borivali West, Mumbai - 400103, Near Shanti Ashram",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.241038,
+        72.84623
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819983073",
+    "preference": 1
+  },
+  {
+    "name": "Bhavani general store",
+    "phone": "+(91)-9029669817",
+    "address": "Shop no-4,amber building, Suresh nagar, Andheri West, Mumbai - 400053, R.t.o land",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.134,
+        72.826767
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9029669817",
+    "preference": 1
+  },
+  {
+    "name": "R s mani supermarket",
+    "phone": "+(91)-9769578951",
+    "address": "Shop no.13&14, Bldg no. 8, Tilak Nagar, Mumbai - 400089",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.070489,
+        72.898728
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9769578951",
+    "preference": 1
+  },
+  {
+    "name": "Manish super market",
+    "phone": "+(91)-9967924293",
+    "address": "Shop no 1,GAO Devi housing soc, Off link road, Adarsh Nagar-Andheri West, Mumbai - 400053, Behind lotus petrol pump",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.142736,
+        72.832825
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9967924293",
+    "preference": 1
+  },
+  {
+    "name": "Vishal Super Market",
+    "phone": "+(91)-22-25323096, +(91)-8097005856",
+    "address": "Kopri Colony, Thane, Raut Road, Thane East, Thane - 400603",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1824652777,
+        72.9764930555
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8097005856",
+    "preference": 1
+  },
+  {
+    "name": "Daily Needs",
+    "phone": "+(91)-22-27436161, +(91)-9930419292",
+    "address": "Shop No 2 & 3, Plot No 16, Canabee Building, Kamothe, Navi Mumbai - 410206, Sector 36",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9930419292",
+    "preference": 1
+  },
+  {
+    "name": "Niti Stores",
+    "phone": "+(91)-22-28733476, +(91)-9819061982",
+    "address": "156, Goregaon West, Mumbai - 400062, Jawahar Nagar",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819061982",
+    "preference": 1
+  },
+  {
+    "name": "Chheda Dal Mill",
+    "phone": "+(91)-22-26777221, +(91)-9892215703",
+    "address": "Plot No.123, Shop No.6, Khandwani Mansion, J.P.Road, Andheri West, Mumbai - 400058, Opposite Snehaanjali",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1268806388,
+        72.8398208611
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892215703",
+    "preference": 1
+  },
+  {
+    "name": "Laxmi General Store",
+    "phone": "+(91)-22-26287461, +(91)-9867270557",
+    "address": "Purab Paschim Society, Gillbert Hill Road, Andheri West, Mumbai - 400058, Nr-Bhavans College,Opp-Andheri Recreation Club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.123333,
+        72.8385
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867270557",
+    "preference": 1
+  },
+  {
+    "name": "Pramanik Provision Stores",
+    "phone": "+(91)-22-23531866, +(91)-9619083478",
+    "address": "658, Kailash Nagar, Tardeo Road, Tardeo, Mumbai - 400007, Opposite Bhatia Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.966222,
+        72.812683
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9619083478",
+    "preference": 1
+  },
+  {
+    "name": "Ganesh Trading Company",
+    "phone": "+(91)-22-27835425, +(91)-9819245172",
+    "address": "A/4, Apmc Market, Sector 19, Vashi, Navi Mumbai - 400703, Dana Bunder Market 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0789459073,
+        73.0098963038
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819245172",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Variety Foods",
+    "phone": "+(91)-22-49183817",
+    "address": "Vasant Pride Building , Shop No 14, 90 Feet Road , Thakur Complex, Kandivali East, Mumbai - 400101, Near Gokul Garden",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.211005,
+        72.863067
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Kothari Super Market",
+    "phone": "+(91)-22-25114545, +(91)-9322593599",
+    "address": "Shop No 8 & 9, K K Smruti Apartment, Ghatkopar West, Mumbai - 400086, Near Ghatkopar Pipeline, New Maniklal Estate",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.088714,
+        72.902542
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9322593599",
+    "preference": 1
+  },
+  {
+    "name": "New Ambika Stores",
+    "phone": "+(91)-22-29259794, +(91)-9820679279",
+    "address": "Shop No 4 & 5, Zenith Chs, Andheri East, Mumbai - 400059, Bhawani Nagar, Near Mea High School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.119167,
+        72.880333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820679279",
+    "preference": 1
+  },
+  {
+    "name": "Fair Price",
+    "address": "Shop No 4,5 & 6,  Bhanu Kanti Complex, Aarey Rd Goregaon E, Goregaon East, Mumbai - 400063, Near Aarey Chek Naka",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.165983,
+        72.858941
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai"
+  },
+  {
+    "name": "Super Masala",
+    "phone": "+(91)-22-26798463, +(91)-9833252630",
+    "address": "Shop No 1, New Ekta Apartment, Behram Baug-Jogeshwari West, Mumbai - 400102, Near Jamatkhana",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1444444444,
+        72.8388888888
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833252630",
+    "preference": 1
+  },
+  {
+    "name": "Manoj Medical & General Stores",
+    "phone": "+(91)-22-26504318, +(91)-9892828511",
+    "address": "Shop No 1, Bldg 24, Shama Apt, CST Road, Kurla West, Mumbai - 400070, Opp Aram Hotel Kapadia Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0743751388,
+        72.8713073611
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892828511",
+    "preference": 1
+  },
+  {
+    "name": "Satyam stores",
+    "phone": "+(91)-22-66926252, +(91)-9819013742",
+    "address": "Shop no-10,Paul Appartment, Veera desai road, Andheri West, Mumbai - 400053, Near-janki centre",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1308231111,
+        72.8375549166
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819013742",
+    "preference": 1
+  },
+  {
+    "name": "Realm Masala & Organic Foods",
+    "phone": "+(91)-22-28942577, +(91)-9821099151",
+    "address": "1/ B, Suchitra Enclave, Chandavarkar Lane, Borivali West, Mumbai - 400092, Maharashtra Nagar",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821099151",
+    "preference": 1
+  },
+  {
+    "name": "APNA BAZAR",
+    "phone": "+(91)-9320420571, 8149651080",
+    "address": "Ground floor,Apna Bazar,papdy, Vasai West, Thane - 401201, Near B.C.C.O. Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.353333,
+        72.813333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Real Choice Super Market",
+    "phone": "+(91)-22-26395488, +(91)-9892824701",
+    "address": "Shop No 2, Nirman Cottage, Yari Road, Andheri West, Mumbai - 400061, Near Vimla Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1385,
+        72.810167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892824701",
+    "preference": 1
+  },
+  {
+    "name": "Usha Stores",
+    "phone": "+(91)-22-24141242, +(91)-9320009666",
+    "address": "Bhivandiwala Building, L N Road, Matunga East, Mumbai - 400019",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.028126,
+        72.851295
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9320009666",
+    "preference": 1
+  },
+  {
+    "name": "Suresh Stores",
+    "phone": "+(91)-22-49178864",
+    "address": "27 Ground Floor Kirtikar Market, M C Javle Marg, Dadar West, Mumbai - 400028, Near Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0187263333,
+        72.8409576388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Matru Krupa",
+    "phone": "+(91)-22-61636319",
+    "address": "Shop No. 5, Ground Floor, Siddhesh Darshan, 199/201, Khetwadi Main Road, Khetwadi-Girgaon, Mumbai - 400004, Opposite No. 10",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9573421388,
+        72.8200149444
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "KB's Fairprice",
+    "phone": "+(91)-7498256332, 7498297316",
+    "address": "Shop No 9, Goodwill Arcade, Station Road, Sector 10, Nerul, Navi Mumbai - 400706",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0363888888,
+        73.0172222222
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Jayantilal Manji Parmar Kirana...",
+    "phone": "+(91)-9870817521",
+    "address": "Raychandra Wadi House, Shankar Ghanekar Marg, Dadar West, Mumbai - 400028, Opposite DEV Nursing Home",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0158653055,
+        72.8336181388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9870817521",
+    "preference": 1
+  },
+  {
+    "name": "Sony Medical & Super Market",
+    "phone": "+(91)-22-26000228, +(91)-9819058379",
+    "address": "Shop No 5/6 Lok Nirmal Building, Dr Ambedkar Road, Khar West, Mumbai - 400052, Union Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.072075,
+        72.827178
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819058379",
+    "preference": 1
+  },
+  {
+    "name": "Arif General Stores",
+    "phone": "+(91)-8108347106",
+    "address": "Shop No 21 Plot no 68, Gate no 7 Nec Collector Compound, Malad West, Mumbai - 400095, Near Rose Mary High School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.18412,
+        72.823272
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8108347106",
+    "preference": 1
+  },
+  {
+    "name": "Sahakar Bazaar",
+    "phone": "+(91)-22-25412056, +(91)-9892982253",
+    "address": "Shop No 3, Kalwa, Thane - 400605, Bhosar Ali",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892982253",
+    "preference": 1
+  },
+  {
+    "name": "Sahakar Bazaar",
+    "phone": "+(91)-22-27790675, +(91)-8898850881",
+    "address": "Shop No 2/3, Airoli, Navi Mumbai - 400708, Sector No 5",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8898850881",
+    "preference": 1
+  },
+  {
+    "name": "Lucky General Stores",
+    "phone": "+(91)-22-67989298, +(91)-9819829212",
+    "address": "Shop No 5, Masdut Building, Jai Jawan Nagar, R B Mehta Marg, Ghatkopar East, Mumbai - 400077, Near Swami Narayan Temple, JAI Jawan Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0794982777,
+        72.9075546111
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819829212",
+    "preference": 1
+  },
+  {
+    "name": "janta Provision Store",
+    "phone": "+(91)-22-24462319, +(91)-8291233956",
+    "address": "Mahim Mention, MMC Road, Mahim, Mumbai - 400016, Near Mahim Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0397319722,
+        72.8451538055
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8291233956",
+    "preference": 1
+  },
+  {
+    "name": "Print Traders",
+    "phone": "+(91)-22-27892432, +(91)-9594699452",
+    "address": "Mathadi Bhavan, Sector 19, Vashi, Navi Mumbai - 400703, Opposite Dana Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.078667,
+        73.009667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9594699452",
+    "preference": 1
+  },
+  {
+    "name": "Omkar Traders",
+    "phone": "+(91)-22-27880445, +(91)-9167914964",
+    "address": "C 63, Apmc Market 1, Mudi Bazar, Vashi, Navi Mumbai - 400703, Masala Market",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167914964",
+    "preference": 1
+  },
+  {
+    "name": "Chhadva Grain Stores",
+    "phone": "+(91)-22-25791825, +(91)-9820722996",
+    "address": "Near Apna Bazar, Opp. IIT Main Gate, Apnabazar Road, Powai, Mumbai - 400076, Near Bata Showroom",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1251258611,
+        72.9175033333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820722996",
+    "preference": 1
+  },
+  {
+    "name": "Om Satyam Super Market",
+    "phone": "+(91)-22-45106105",
+    "address": "Shop No 9, C Wing Saiminar Building, Saibaba Complex, Shiba Road, Goregaon East, Mumbai - 400063, Near Oberoi International School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1686605,
+        72.8692031
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  }
+
+,
+
+  {
+    "name": "Ambika Stores",
+    "phone": "+(91)-22-26254093, +(91)-9833104953",
+    "address": "Shop No.1/2, Ground Floor Bhagwat Bl ,Kalyangram Society, V.P Road, Andheri West, Mumbai - 400058, Near Jamatkhana",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1181068333,
+        72.8409881388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833104953",
+    "preference": 1
+  },
+  {
+    "name": "Universal Stores & Bakery",
+    "phone": "+(91)-22-67688405",
+    "address": "Himachal Building, Shop No. 11, Juhu Lane, Andheri West, Mumbai - 400058, Opposite New India Stock Colony",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.114575,
+        72.839508
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "New Choice",
+    "phone": "+(91)-22-65084229, +(91)-9819247233",
+    "address": "Shop no 6,B-26,Wellington bldg, Shastri nagar, Andheri West, Mumbai - 400053, Opposite to Royal Classic",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1372890277,
+        72.8294525
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819247233",
+    "preference": 1
+  },
+  {
+    "name": "Central Department Stores",
+    "phone": "+(91)-22-71043671",
+    "address": "10, Hingwala Bunglow, Hingwala Lane, Ghatkopar East, Mumbai - 400077, Opp DoshiNursing Home",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0829563055,
+        72.9039306388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Home Needs Supermart",
+    "phone": "+(91)-8424873207, 9029918221",
+    "address": "Shop No 5/6, Radha Krishna Complex, Kharghar, Navi Mumbai - 410210, Near Kotak Mahendra Bank, Sector No 11",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.039833,
+        73.067667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Home choice",
+    "phone": "+(91)-22-23803344, +(91)-9920020062",
+    "address": "shop no-2 janam bldg, Forjett Street, Grant Road, Mumbai - 400007, opp sbi bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9646987777,
+        72.8113174166
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920020062",
+    "preference": 1
+  },
+  {
+    "name": "Dev Supermarket",
+    "phone": "+(91)-22-25704047, +(91)-9833576060",
+    "address": "Shop No 8, Pearl Building, Powai vihar complex road, Powai, Mumbai - 400076, Near gopal sharma school",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.114867,
+        72.903695
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833576060",
+    "preference": 1
+  },
+  {
+    "name": "Joseph & Company",
+    "phone": "+(91)-22-22020466, +(91)-9223550105",
+    "address": "Shop No 4, Pipewala Bldg, 4th Pasta Lane, Colaba, Mumbai - 400005, Opp Naval Public School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.916667,
+        72.827167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9223550105",
+    "preference": 1
+  },
+  {
+    "name": "Parivar Stores",
+    "phone": "+(91)-22-29671157, +(91)-9820152331",
+    "address": "Shop No 5, Mahavir Darshan, Kandivali West, Mumbai - 400067, Dahanukar Wadi, Mahavir Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.211895,
+        72.837373
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820152331",
+    "preference": 1
+  },
+  {
+    "name": "Patel Low Price",
+    "phone": "+(91)-251-2450057, +(91)-9987025233",
+    "address": "Unique plaza, x5, shop no. 101 to 105, Sudershan nagar road, Dombivli East, Thane - 421201, Near Mamta hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.208,
+        73.1035
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987025233",
+    "preference": 1
+  },
+  {
+    "name": "Apna Bazar Co Operative",
+    "phone": "+(91)-9769533354",
+    "address": "Shop No 7 & 8, Elite Enclave, Plot No 260, Sec 10, Kharghar, Navi Mumbai - 410210, Kopara Village",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9769533354",
+    "preference": 1
+  },
+  {
+    "name": "Mata Foods",
+    "phone": "+(91)-22-32460623",
+    "address": "Parth Bldg .,Shop No.12,Plot No.228,Sector-13,Near Shilp Chowk,Kharghar-Navi Mumbai-410210, Kharghar, Navi Mumbai - 410210",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0475,
+        73.070667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Chirag Super Stores",
+    "phone": "+(91)-22-27744714, +(91)-9920293633",
+    "address": "Shop No 12/13,, sector 11 Radha Krishna Complex, Plot No 29, Kharghar, Navi Mumbai - 410210, nift collage road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0346584166,
+        73.0590743888
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920293633",
+    "preference": 1
+  },
+  {
+    "name": "Vagad Dry Fruits",
+    "phone": "+(91)-22-71041843",
+    "address": "Shop No.7, Amrut Building, J S Road, Dahisar, Mumbai - 400068, Near Rustomji Bussiness School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.240667,
+        72.858333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "SHREE GANESH STORE",
+    "phone": "+(91)-9819948690",
+    "address": "Shop no.01, Corner ,Gopal Niwash, Rokadiya Road, Borivali West, Mumbai - 400092, Near Gokul Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2295055277,
+        72.8551025277
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819948690",
+    "preference": 1
+  },
+  {
+    "name": "New Ganesh General Store",
+    "phone": "+(91)-22-25160605, +(91)-8689871430",
+    "address": "Shop No 3, Shiv Krupa Building, Kirani Lane, Ghatkopar West, Mumbai - 400086, Opposite Corporation Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.087,
+        72.904333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8689871430",
+    "preference": 1
+  },
+  {
+    "name": "Rekha Provision & General Store",
+    "phone": "+(91)-9969721225",
+    "address": "Shop No 1/2, Plot No 222, Megha Building, Charkop, Mumbai - 400067, Sector No 5",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.218095,
+        72.828788
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9969721225",
+    "preference": 1
+  },
+  {
+    "name": "Vardhaman Stores",
+    "phone": "+(91)-9819067600, 9819301998",
+    "address": "C/34, B, Mahavir Nagar,Factory Lane,L T Road, Borivali West, Mumbai - 400092, Shah Jewel",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Haria Stores",
+    "phone": "+(91)-22-26482944, +(91)-9322236549",
+    "address": "570/3 Sawanand Sadan, 5th Road, Khar West, Mumbai - 400052, Opp. Sitla Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.066039,
+        72.837983
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9322236549",
+    "preference": 1
+  },
+  {
+    "name": "R R Acharia",
+    "phone": "+(91)-22-23442739, +(91)-9820316377",
+    "address": "Shop No 382, Fort, Mumbai - 400001, Inside Crawford Market, Mahatma Phule Market",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820316377",
+    "preference": 1
+  },
+  {
+    "name": "NEEDS",
+    "phone": "+(91)-9167645842",
+    "address": "Shop no 22, palm beach arcade,amey co.op hsg society, sector.4, Nerul, Navi Mumbai - 400706, off palm beach road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0316428888,
+        73.0215148888
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167645842",
+    "preference": 1
+  },
+  {
+    "name": "Royal General stores",
+    "phone": "+(91)-22-28349166, +(91)-9820662321",
+    "address": "Shop No.2,3 Nariman Vihar Housing Soc. Ltd, Jijamata Marg, Pump House-Andheri East, Mumbai - 400093, Opp Vikas Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.129167,
+        72.8605
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820662321",
+    "preference": 1
+  },
+  {
+    "name": "Ms Virji Waghji & Company",
+    "phone": "+(91)-22-26285607, +(91)-9820538449",
+    "address": "Shop No 2,3 And 4 Patel Building, S. V Road, Andheri West, Mumbai - 400058, Behind Moti Mahel Restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.120417,
+        72.845322
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820538449",
+    "preference": 1
+  },
+  {
+    "name": "Chandan Super Market",
+    "phone": "+(91)-9867429339",
+    "address": "Shop No 8,Country Park, Dattapada Road, Borivali East, Mumbai - 400066, Near Citi Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.22108,
+        72.864113
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867429339",
+    "preference": 1
+  },
+  {
+    "name": "Juhu General Stores",
+    "phone": "+(91)-22-26232819, +(91)-9819026750",
+    "address": "Shop No.5, Kesar House, Juhu Church Road, Juhu, Mumbai - 400049, Near Juhu Church",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.109119,
+        72.826513
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819026750",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "L.R. General Stores",
+    "phone": "+(91)-22-26845467",
+    "address": "6A/7 Sai Shrusti C.H.S., Teligali,, Andheri East, Mumbai - 400069, Opp. Domino",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1180629722,
+        72.849205
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "D-3 supar market",
+    "phone": "+(91)-9773450471",
+    "address": "Shop no.D/5-6, shopping plaza, Nahar Amrit Shakti Road, Chandivali-Andheri East, Mumbai - 400072, Near chandivali d mart",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.111683,
+        72.897805
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9773450471",
+    "preference": 1
+  },
+  {
+    "name": "Shiv shakti general store",
+    "phone": "+(91)-8080399090",
+    "address": "Bungalow no 34, Svp nagar mahada, Andheri West, Mumbai - 400053, Near hanuman temple",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.136433,
+        72.821495
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8080399090",
+    "preference": 1
+  },
+  {
+    "name": "Vishwas Bazar",
+    "phone": "+(91)-22-27451247",
+    "address": "Shop No 5 & 6, Cidco Complex, New Panvel, Navi Mumbai - 410206, Sector 1",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Ganga Trading Company",
+    "phone": "+(91)-22-28118538, +(91)-9821800692",
+    "address": "Shop No-16/17 Ganga Shopping Center Jangid Complex, Mira Road, Thane - 401107, Near Silver Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.280167,
+        72.871167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821800692",
+    "preference": 1
+  },
+  {
+    "name": "A-1 Dhanya Bhandar Grain & Pro...",
+    "phone": "+(91)-22-28543748, 28549351",
+    "address": "Bahgirathi, Thakur Complex, Kandivali East, Mumbai - 400101, Behiind SAI Dham",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.211458,
+        72.8674
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Shreeji Dryfruits",
+    "phone": "+(91)-22-61622031",
+    "address": "Shop No 1 Lata Thakarshi Chawl, Jijamata Road, Pump House-Andheri East, Mumbai - 400093, Opoosite Manish Park Pump House",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.126667,
+        72.857167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Bhavani Provision & General St...",
+    "phone": "+(91)-22-28075056, +(91)-9833553652",
+    "address": "Shop No 6, Hemal Apartment, Marve Road, Malad West, Mumbai - 400064, Jankalyan Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1992,
+        72.820495
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833553652",
+    "preference": 1
+  },
+  {
+    "name": "Future Consumers",
+    "phone": "+(91)-9322653974",
+    "address": "Moraj Manor, Sanpada, Navi Mumbai - 400705, Sector 14",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0607895,
+        73.00288
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9322653974",
+    "preference": 1
+  },
+  {
+    "name": "Hitesh Provision Store",
+    "phone": "+(91)-22-28111755, +(91)-8108211755",
+    "address": "Shop No 12 13 14 15 16, Mira Road, Thane - 401107, Opposite Chandrakala Building  Sector 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.276833,
+        72.860833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8108211755",
+    "preference": 1
+  },
+  {
+    "name": "Rajawadi Medical & General Stores",
+    "phone": "+(91)-22-21021813, +(91)-9869256712",
+    "address": "Shop No 1,Chetan Building, 1st Rajawadi Road, Ghatkopar East, Mumbai - 400077, Near Bank Of Baroda",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0795,
+        72.902667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869256712",
+    "preference": 1
+  },
+  {
+    "name": "Shree Mahalaxmi Kirana & Gener...",
+    "phone": "+(91)-22-28055342, +(91)-9930300338",
+    "address": "Shop No 1, Panchsheel Garden, Kandivali West, Mumbai - 400067, Mahavir Nagar, Dhanukar Wadi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2108378,
+        72.83979
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9930300338",
+    "preference": 1
+  },
+  {
+    "name": "Shraddha Provision And General...",
+    "phone": "+(91)-22-28440475, +(91)-8879829768",
+    "address": "Shop No 3, Shankar Darshan Building, Evershine Nagar, Malad West, Mumbai - 400064, Next To Movie Time Cinema, Evershine Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1828498611,
+        72.8382415555
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8879829768",
+    "preference": 1
+  },
+  {
+    "name": "Jay Samondaa Super Market",
+    "phone": "+(91)-22-28763447, +(91)-9819528166",
+    "address": "Shop No.11, Aditya Apartment, Ahimsa Marg, Chincholi Bunder Road, Malad West, Mumbai - 400064, Behind infant Jesus school",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.177167,
+        72.838667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819528166",
+    "preference": 1
+  },
+  {
+    "name": "Bhavesh Traders",
+    "phone": "+(91)-22-28699918, +(91)-9920479922",
+    "address": "185 Ganesh Nagar, Sumangal Hospital, Kandivali West, Mumbai - 400067, Charcop Opp Mahada Compound",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.201938,
+        72.828187
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920479922",
+    "preference": 1
+  },
+  {
+    "name": "Sahara super market  & Dairy",
+    "phone": "+(91)-22-69572682, +(91)-9819762854",
+    "address": "Shop no-3 4  medopark aksa masjid road, Off s v road, Jogeshwari West, Mumbai - 400102, Opp lotus park 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.141711,
+        72.839928
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819762854",
+    "preference": 1
+  },
+  {
+    "name": "Sapre & Mandali",
+    "phone": "+(91)-22-26139891, +(91)-8421584287",
+    "address": "Shop No 5, Shilp Mahal, Hanuman Road, Vile Parle East, Mumbai - 400057, Opposite Datta Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.103902,
+        72.852547
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8421584287",
+    "preference": 1
+  },
+  {
+    "name": "Shree Ashapura Traders",
+    "phone": "+(91)-22-28999447, +(91)-9757351739",
+    "address": "Shop No. 5, Madhusudan Terrace, Shimpoli Road, Borivali West, Mumbai - 400092, Kastur Park",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9757351739",
+    "preference": 1
+  },
+  {
+    "name": "Ganesh Provision Stores",
+    "phone": "+(91)-22-26614389, 26604478",
+    "address": "Shop No 15, Shalimar Building, S T Road, Santacruz West, Mumbai - 400054, Opp.khira inds",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.08663,
+        72.83663
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Rinkal General Stores",
+    "phone": "+(91)-22-26348148, +(91)-9594799143",
+    "address": "Shop No 4, Kavita Apartment, Yari Road, Andheri West, Mumbai - 400061, Opp of mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.140333,
+        72.809333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9594799143",
+    "preference": 1
+  },
+  {
+    "name": "Sanjay Masala And Kirana Store",
+    "phone": "+(91)-22-24087118, +(91)-9819913144",
+    "address": "Gul Mohammed Chawl No 253, Shop No 3, Dharavi Cross Road, Dharavi, Mumbai - 400017, Dagadi Bldg",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.044,
+        72.8545
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819913144",
+    "preference": 1
+  },
+  {
+    "name": "Arvind store",
+    "phone": "+(91)-9769155858",
+    "address": "Shop no77, Dr ambedkar road, Bandra West, Mumbai - 400050, Opp junta",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.063167,
+        72.829333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9769155858",
+    "preference": 1
+  },
+  {
+    "name": "Veera General Stores",
+    "phone": "+(91)-22-24122444, +(91)-9819416363",
+    "address": "Plot no 210, shop no.6 , Krishna Niwas, Rafi Ahmed Kidwai Marg, Wadala West, Mumbai - 400031, Wadala Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.016739,
+        72.858405
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819416363",
+    "preference": 1
+  },
+  {
+    "name": "Bharat Stores",
+    "phone": "+(91)-22-24300532, +(91)-8291449699",
+    "address": "Tower Building, Senapati Bapat Marg, Dadar West, Mumbai - 400028, Opp Kohinoor Technical Institute,Ram Gopal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.015778,
+        72.839921
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8291449699",
+    "preference": 1
+  },
+  {
+    "name": "Remi Supermarket",
+    "phone": "+(91)-22-23446539",
+    "address": "No 252, Narsi Natha Street, Masjid, Mumbai - 400003, Near Flora Fountain",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  }
+
+,
+
+  {
+    "name": "Apna Ghar General Store",
+    "phone": "+(91)-22-25797561, +(91)-9869383677",
+    "address": "Shop No-50, Galleria Mall, Powai, Mumbai - 400076, Hiranandani",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1185569722,
+        72.9108733888
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9869383677",
+    "preference": 1
+  },
+  {
+    "name": "Home Mart",
+    "phone": "+(91)-22-21027822, +(91)-9820593876",
+    "address": "Kailash Castle, Vallabh Baug Lane, Ghatkopar East, Mumbai - 400077, Opposite Odean Shopping Centre",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0790644,
+        72.90966
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820593876",
+    "preference": 1
+  },
+  {
+    "name": "Sahakari Bhandar",
+    "phone": "+(91)-22-40176400, 28188881",
+    "address": "Chandrakant Niwas, Station Road, Bhayandar West, Thane - 401101, Opposite Rajesh Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.3036429,
+        72.85007
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Dhiraj Grain Stores",
+    "phone": "+(91)-22-28720738, +(91)-9867409972",
+    "address": "71, Road No 1, Goregaon West, Mumbai - 400062, Opposite Ambe Mata Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.162858,
+        72.848495
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867409972",
+    "preference": 1
+  },
+  {
+    "name": "Ajanta Stores",
+    "phone": "+(91)-22-28737657, +(91)-9870584341",
+    "address": "176/9-10 Jawahar Nagar, Road No 11, Goregaon West, Mumbai - 400062, Ooposite Janta Dugdhalay",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.159061,
+        72.848533
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9870584341",
+    "preference": 1
+  },
+  {
+    "name": "Shree Krishna Dairy Farm & Swe...",
+    "phone": "+(91)-22-49184911",
+    "address": "Shop No. 1 Kavita Apartment, Yari Road, Andheri West, Mumbai - 400061, Opposite Ganesh SAI Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.140333,
+        72.809167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Ramdev Super Market",
+    "phone": "+(91)-22-26300035, +(91)-9821751724",
+    "address": "Shop No.D-3, 83 Matrichhaya Chs,Mhada, S V P Nagar, Four Bunglows-Andheri West, Mumbai - 400053, Near Versova Telephone Exchange",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.138758,
+        72.821337
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9821751724",
+    "preference": 1
+  },
+  {
+    "name": "Society general store",
+    "phone": "+(91)-9819106490",
+    "address": "Shop no.17, Gilbert hill, Andheri West, Mumbai - 400058, Opp of masjid",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.119636,
+        72.837547
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819106490",
+    "preference": 1
+  },
+  {
+    "name": "Chamunda Super Market",
+    "phone": "+(91)-22-25892176, +(91)-9930139064",
+    "address": "Shop No.16, Tikujiniwadi Road, Manpada-Thane West, Thane - 400607, Happy Valley",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.236695,
+        72.971253
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9930139064",
+    "preference": 1
+  },
+  {
+    "name": "Shree Annapurna Kirana Stores",
+    "phone": "+(91)-9920567199, 9769509774",
+    "address": "Shop No.5/C, Ram Baug Lane, S.V.Road, Borivali West, Mumbai - 400092, SAI Darshan,",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Twinkle General Store",
+    "phone": "+(91)-22-26284895, +(91)-9004363825",
+    "address": "Shop No 3 Gyandeep Co Op HSG Society, Gulmohar Cross Road No 7, Juhu, Mumbai - 400049, Near Mangi Ferra Restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.11393,
+        72.835787
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9004363825",
+    "preference": 1
+  },
+  {
+    "name": "anmol",
+    "phone": "+(91)-22-28893415, +(91)-9867972214",
+    "address": "shop no.2,shanti kunj, anand road, Malad West, Mumbai - 400064, opp.railway station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1844158055,
+        72.8483657777
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867972214",
+    "preference": 1
+  },
+  {
+    "name": "The Q Shop - M004-Sahara Q Shop",
+    "phone": "+(91)-9892400883",
+    "address": "Sahara Q Shop, Lokpuram Society-Thane West, Thane - 400610, Shop No :- 42, Ground Floor,Regal Plaza, Lokpuram Thane",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892400883",
+    "preference": 1
+  },
+  {
+    "name": "Sameer Stores",
+    "phone": "+(91)-22-26400761, +(91)-9892972786",
+    "address": "Shop No 1, 87 Chapel Road, Bandra West, Mumbai - 400050, Near Cafe Coffee Day",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0512351944,
+        72.8282775833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892972786",
+    "preference": 1
+  },
+  {
+    "name": "Vishal Super Market",
+    "phone": "+(91)-22-28681701, +(91)-9987066039",
+    "address": "Shop No 1, 130, Geetanjali Rsc 11, M.G. Cross Road,, Kandivali West, Mumbai - 400067, Charkop, Sector 2,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.217987,
+        72.836197
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987066039",
+    "preference": 1
+  },
+  {
+    "name": "Shah Dhanji Naiya & Company",
+    "phone": "+(91)-22-24225547, +(91)-9702853023",
+    "address": "Shop No 1/2, Radha Niwas, 7 A Bhawani Shankar Road, Dadar West, Mumbai - 400028, Opposite Kabutar Khana",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.0185726,
+        72.8403109
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9702853023",
+    "preference": 1
+  },
+  {
+    "name": "Shree Ganesh Oil Depot",
+    "phone": "+(91)-22-25856679, +(91)-9820541155",
+    "address": "Pokhran Road, Savarkar Nagar-Thane West, Thane - 400606, Sahakar Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2149305555,
+        72.9578472222
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820541155",
+    "preference": 1
+  },
+  {
+    "name": "Sahakar Bazaar",
+    "phone": "+(91)-22-27716368, +(91)-9987930486",
+    "address": "Nerul, Navi Mumbai - 400706, Oppsite Sarsole Bus Depot, Sector 10",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987930486",
+    "preference": 1
+  },
+  {
+    "name": "Aashirwad Provision Stores",
+    "phone": "+(91)-22-28623018, +(91)-9892570460",
+    "address": "Gangotri Apartment Dhanukar Wadi, Kandivali West, Mumbai - 400067, Mahavir Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2111493,
+        72.84074
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892570460",
+    "preference": 1
+  },
+  {
+    "name": "Danapaani Retail",
+    "phone": "+(91)-22-25551276, +(91)-9930617977",
+    "address": "Majethia Industrial Estate, Wt Patil Marg, Deonar, Mumbai - 400088, Dukes Company",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9930617977",
+    "preference": 1
+  },
+  {
+    "name": "Lokmanya General Stores",
+    "phone": "+(91)-22-25786393, +(91)-9619504423",
+    "address": "Ramabai Ambedkar Nagar, Powai, Mumbai - 400076, Near Hiranandani Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.122667,
+        72.918
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9619504423",
+    "preference": 1
+  },
+  {
+    "name": "Savla Grain Stores",
+    "phone": "+(91)-22-28413048, 28406286",
+    "address": "Shop No. 1, Ravji Ratansi Chawl, Film City Road, Goregaon East, Mumbai - 400063, Gokuldham Nr Sudha Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1754850933,
+        72.8717035839
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Khetlaji Super Market",
+    "phone": "+(91)-22-28543814, +(91)-8652604040",
+    "address": "Gokul Garden, Shop No 28, Thakur Complex, Kandivali East, Mumbai - 400101, Opposite Vasant Pride",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.210667,
+        72.863333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8652604040",
+    "preference": 1
+  },
+  {
+    "name": "New Ramdev General Stores",
+    "phone": "+(91)-22-28542922, +(91)-8879545811",
+    "address": "Shop No 13, Gokul Accord, Western Express Highway, Thakur Complex-Kandivali East, Mumbai - 400101, Near Cambridge School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.210233,
+        72.863013
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8879545811",
+    "preference": 1
+  },
+  {
+    "name": "Sneha General Stores",
+    "phone": "+(91)-22-28113937, +(91)-9819984402",
+    "address": "B/28, Shop No 6, Sector No 5, Mira Road, Thane - 401107, Opposite Sector 6, Near Jain Mandir, Shanti Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.280745,
+        72.862458
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819984402",
+    "preference": 1
+  }
+
+,
+
+  {
+    "name": "Lucky general store",
+    "phone": "+(91)-9833285540, 9833284540",
+    "address": "Shop no-2,magnum apartment, Isa road, Jogeshwari West, Mumbai - 400102, Malkani tower",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.136833,
+        72.844667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Dheeraj Provision Stores",
+    "phone": "+(91)-22-26821414, +(91)-9820559922",
+    "address": "Shop No 3 Trupti Apartment, Sahar Road No 2, Andheri East, Mumbai - 400069, Koldongri",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1045201,
+        72.8574872
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820559922",
+    "preference": 1
+  },
+  {
+    "name": "New Pethani Store",
+    "phone": "+(91)-22-26712840, +(91)-9833558688",
+    "address": "Kailash Sadan Building, Shop No 6, Bajaj Road, Vile Parle West, Mumbai - 400056, Near Sanyas Ashram",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1051639,
+        72.8429335
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833558688",
+    "preference": 1
+  },
+  {
+    "name": "Signet Stores",
+    "phone": "+(91)-22-26356913, +(91)-9167636713",
+    "address": "Evershine 2, Shop No 49, Ratan Nagar Lane, Andheri West, Mumbai - 400053, Four Bunglow",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.128833,
+        72.822333
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167636713",
+    "preference": 1
+  },
+  {
+    "name": "Society Super Market",
+    "phone": "+(91)-22-26401829, +(91)-9930665121",
+    "address": "Shop No 67, Beach View Apartment, 77, Chimbai Road, Bandra West, Mumbai - 400050, Next To Chimbai Police Chowki",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.056652,
+        72.82422
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9930665121",
+    "preference": 1
+  },
+  {
+    "name": "Shah Ramji Bhanuji And Company",
+    "phone": "+(91)-9820493683, 8286109975",
+    "address": "252/256, Bara Iman Road, Masjid, Mumbai - 400003, Nullbazar",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Bombay Bazaar Ltd",
+    "phone": "+(91)-22-23821151, 23820865",
+    "address": "Shriram Mansion, 35,Parekh Street, Prarthana Samaj, Mumbai - 400004, Next To Babubhai Jagjivandas",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9579116,
+        72.82209
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Mahavir Store",
+    "phone": "+(91)-22-23819948",
+    "address": "14/16, Forjett Terrace Building Shop No 8, Forjett Hill Road, Kemps Corner, Mumbai - 400006, Opposite Bhatiya Hospital",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Mahesh Flour Mill",
+    "phone": "+(91)-22-28416700, 28416644",
+    "address": "Shop No S 10 New Dendoshi Mhada Colony, Gen A K Vaidya Marg, Goregaon East, Mumbai - 400065, Near 1,2 Nagri Nivara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.172333,
+        72.881667
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "OM traders",
+    "phone": "+(91)-8879435080",
+    "address": "Ram rahim chawl, Old link road, Kandivali West, Mumbai - 400067, Near atharva college",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.19998,
+        72.828072
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8879435080",
+    "preference": 1
+  },
+  {
+    "name": "Suryavanshi Oil Centre",
+    "phone": "+(91)-22-28365448",
+    "address": "Krishna Building, Plot No 3, Andheri East, Mumbai - 400099, Opposite Cigarette Factory, Chakala",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Janata Grain & Provision Stores",
+    "phone": "+(91)-22-24094619, +(91)-9322249993",
+    "address": "284, Rameshwar Bhavan, Sion, Mumbai - 400022, Opposite Mehta Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.031683,
+        72.859715
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9322249993",
+    "preference": 1
+  },
+  {
+    "name": "Satyam Stores",
+    "phone": "+(91)-22-28921747, +(91)-9867397811",
+    "address": "Shop No 5, Rohini Pathere Chawl, Lokmanya Tilak Road, Dahisar, Mumbai - 400068, Near Canara Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.253413,
+        72.858537
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867397811",
+    "preference": 1
+  },
+  {
+    "name": "Shree Saraswati General Store",
+    "phone": "+(91)-22-28227111, +(91)-9820761584",
+    "address": "Shop No.1, Rathod Niwas, H F Society Road, Jogeshwari East, Mumbai - 400060, Near Post Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.131667,
+        72.849833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820761584",
+    "preference": 1
+  },
+  {
+    "name": "Shreeji Stores",
+    "phone": "+(91)-22-28832514, +(91)-9892092395",
+    "address": "Shop No 10, Navjivan Building, Evershine Nagar, Malad West, Mumbai - 400064, Opposite Oriental Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.190938,
+        72.833983
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892092395",
+    "preference": 1
+  },
+  {
+    "name": "Food Bazaar",
+    "phone": "+(91)-22-27812258",
+    "address": "Ground Floor, Centre One, Sector- 30-A,, Vashi, Navi Mumbai - 400703",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Apna  Sweet & Frasan Mart",
+    "phone": "+(91)-22-49174041",
+    "address": "Shop No 3, Batwadi, Ghatkopar West, Mumbai - 400084, Near Saraswat Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.09505,
+        72.900117
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "B Ratan Tradelink",
+    "phone": "+(91)-22-67384617",
+    "address": "Shop No 52/C, Station Road, Kopri Colony-Thane East, Thane - 400603, Near Union Bank Of India",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.184095,
+        72.973228
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Triveni General Stores",
+    "phone": "+(91)-22-28638353, +(91)-9867400169",
+    "address": "Shop No 6, Eltee Apartment, Borivali West, Mumbai - 400092, SAI Baba Nagar, Near Garden Bus Stop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2174625277,
+        72.8449401666
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9867400169",
+    "preference": 1
+  },
+  {
+    "name": "Chheda General Stores",
+    "phone": "+(91)-22-23813817",
+    "address": "13, Sleater Road, Grant Road, Mumbai - 400007, Opposite \tThe Shamrao Vithal Co Operative Bank Ltd",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        18.9669523,
+        72.8161544
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Bhawani Dryfruit And General S...",
+    "phone": "+(91)-22-25327264, +(91)-9619754854",
+    "address": "Shop No 4, Sunplaza Shopping Centre, Hari Om Nagar, Mulund East, Mumbai - 400081, Behind Thane Octroi Naka",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.176912,
+        72.971563
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9619754854",
+    "preference": 1
+  },
+  {
+    "name": "Gala Medical & General Stores",
+    "phone": "+(91)-22-28979474, +(91)-9819887447",
+    "address": "Shop no 4, Ahiri Chawl, Kajupada, Borivali East, Mumbai - 400066, Near Police Choki",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.235833,
+        72.867
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819887447",
+    "preference": 1
+  },
+  {
+    "name": "Welcome General Store",
+    "phone": "+(91)-22-69566091",
+    "address": "Shop No.6, Kailash Tower, Chandivali, Powai, Mumbai - 400076, Near Sm Shetty College",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.1192226388,
+        72.8911666666
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Centre Point",
+    "phone": "+(91)-9768285623, 9029062077",
+    "address": "Shop No 12/13, B-34, HELI, Station Road, Shanti Nagar-Mira Road, Thane - 401107, Naya Nagar, Opposite Registration Office,Mira Road E",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2827205555,
+        72.8588333055
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  },
+  {
+    "name": "Fair Price",
+    "phone": "+(91)-22-65657877",
+    "address": "Shop No 4/5, Fatima Mahal, Station Road, Mira Road, Thane - 401107, Opposite Nihal Corner",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        19.2851161944,
+        72.8579711666
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "0",
+    "preference": 0
+  }
+
+]

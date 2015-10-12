@@ -1,0 +1,153 @@
+{
+  "Openings": [
+    {
+      "Design": [
+        {
+          "openingName": "User Experience Designer",
+          "id": "op-54882",
+          "location": [
+            "Mumbai"
+          ]
+        },
+        {
+          "openingName": "User Interface Designer",
+          "id": "op-54885",
+          "location": [
+            "Mumbai"
+          ]
+        },
+        {
+          "openingName": "Graphic Designer",
+          "id": "op-50237",
+          "location": [
+            "Mumbai"
+          ]
+        }
+      ]
+    },
+    {
+      "CREATIVE": [
+        {
+          "openingName": "Content Writer",
+          "id": "op-51432",
+          "location": [
+            "Mumbai"
+          ]
+        },
+        {
+          "openingName": "Copy Writer",
+          "id": "op-51428",
+          "location": [
+            "Mumbai"
+          ]
+        }
+      ]
+    },
+    {
+      "MARKETING": [
+        {
+          "openingName": "Marketing Head",
+          "id": "op-52191",
+          "location": [
+            "Pune",
+            "Mumbai",
+            "Hyderabad",
+            "Bangalore",
+            "Gurgaon"
+          ]
+        },
+        {
+          "openingName": "Marketing Executive",
+          "id": "op-52193",
+          "location": [
+            "Pune",
+            "Hyderabad",
+            "Bangalore",
+            "Gurgaon"
+          ]
+        }
+      ]
+    },
+    {
+      "FINANCE": [
+        {
+          "openingName": "City Finance Executive",
+          "id": "op-52200",
+          "location": [
+            "Pune",
+            "Hyderabad",
+            "Bangalore",
+            "Gurgaon"
+          ]
+        }
+      ]
+    },
+    {
+      "HR - Administration": [
+        {
+          "openingName": "HR - Administration Executive",
+          "id": "op-52205",
+          "location": [
+            "Pune",
+            "Bangalore",
+            "Gurgaon"
+          ]
+        }
+      ]
+    },
+    {
+      "OPERATIONS": [
+        {
+          "openingName": "City Head-Bangalore",
+          "id": "op-54840",
+          "location": [
+            "Bangalore"
+          ]
+        },
+        {
+          "openingName": "Launch Manager",
+          "id": "op-52197",
+          "location": [
+            "Pan India, based in Mumbai"
+          ]
+        },
+        {
+          "openingName": "Executive-Operations",
+          "id": "op-52196",
+          "location": [
+            "Gurgaon",
+            "Bangalore"
+          ]
+        },
+        {
+          "openingName": "Data Management Executive",
+          "id": "op-52195",
+          "location": [
+            "Mumbai"
+          ]
+        },
+        {
+          "openingName": "Business Analyst",
+          "id": "op-52192",
+          "location": [
+            "Mumbai",
+            "Pune",
+            "Hyderabad",
+            "Bangalore",
+            "Gurgaon"
+          ]
+        },
+        {
+          "openingName": "Area Manager",
+          "id": "op-52189",
+          "location": [
+            "Pune",
+            "Hyderabad",
+            "Bangalore",
+            "Gurgaon"
+          ]
+        }
+      ]
+    }
+  ]
+}
